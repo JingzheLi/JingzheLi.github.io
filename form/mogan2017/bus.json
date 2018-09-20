@@ -1,0 +1,7 @@
+[
+{"type":"singleLine", "disabled":true, "name":"name", "displayName":"姓名", "promptText":"Name","val":""},
+{"type":"singleLine","disabled":true, "name":"bib","displayName":"参赛号","promptText":"Bib", "val":""},
+{"type":"singleLine", "name":"mobile", "displayName":"电话","promptText":"Mobile","val":""},
+{"type":"pickChoice", "name":"shift", "displayName":"班次","promptText":"赛事当天 德清体育中心->起终点","val":"","listing":["5:30am出发【6:10预计抵达】","6:40am出发【7:20预计抵达】"]},
+{"type":"singleLine", "disabled":true, "name":"disclamer", "displayName":"费用说明","promptText":"15元/人","val":"添加微信：MomoRunning123，转账并备注“姓名＋班次”"}
+]

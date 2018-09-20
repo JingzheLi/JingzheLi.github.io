@@ -1,0 +1,4 @@
+[
+    {"name":"CP1溪西村扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP1&parent=parent&nodeName=CP1溪西村"},
+    {"name":"CP1溪西村列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP1&parent=parent&nodeName=CP1溪西村"}
+]

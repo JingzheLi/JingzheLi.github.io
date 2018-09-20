@@ -1,0 +1,99 @@
+{
+  "test": { "displayName": "测试", "type": "event", "order": 1, "parent": "" },
+  "bagCheckout": {
+    "displayName": "领物报到",
+    "type": "event",
+    "order": 2,
+    "parent": "parent"
+  },
+  "bagCheck": {
+    "displayName": "领参赛包",
+    "type": "event",
+    "order": 3,
+    "parent": "parent"
+  },
+  "bagDropIn": {
+    "displayName": "存包",
+    "type": "event",
+    "order": 4,
+    "parent": "parent"
+  },
+  "bagPickUp": {
+    "displayName": "取包",
+    "type": "event",
+    "order": 5,
+    "parent": "bagDropIn"
+  },
+  "checkin": {
+    "displayName": "检录",
+    "type": "event",
+    "order": 6,
+    "parent": "parent"
+  },
+  "prize": {
+    "displayName": "领奖牌",
+    "type": "event",
+    "order": 7,
+    "parent": "finish"
+  },
+  "CP1": {
+    "displayName": "岭头门",
+    "type": "timing",
+    "order": 2,
+    "parent": "bagCheckout"
+  },
+  "CP2": {
+    "displayName": "民义村",
+    "type": "timing",
+    "order": 3,
+    "parent": "CP1"
+  },
+  "CP3": {
+    "displayName": "南洋村",
+    "type": "timing",
+    "order": 4,
+    "parent": "CP2"
+  },
+  "CP4": {
+    "displayName": "老古山路口",
+    "type": "timing",
+    "order": 5,
+    "parent": "CP3"
+  },
+  "CP5": {
+    "displayName": "古道岔口",
+    "type": "timing",
+    "order": 6,
+    "parent": "CP3"
+  },
+  "CP6": {
+    "displayName": "南洋村折返",
+    "type": "timing",
+    "order": 7,
+    "parent": "CP4"
+  },
+  "CP7": {
+    "displayName": "恩顶村",
+    "type": "timing",
+    "order": 8,
+    "parent": "CP5"
+  },
+  "finish": {
+    "displayName": "终点",
+    "type": "timing",
+    "order": 10,
+    "parent": "parent"
+  },
+  "withdraw": {
+    "displayName": "退赛列表",
+    "type": "timing",
+    "order": 999,
+    "parent": "parent"
+  },
+  "_start": {
+    "70k": "Apr 1 2018 07:00:00 GMT+0800",
+    "42k": "Apr 1 2018 07:00:00 GMT+0800",
+    "18k": "Apr 1 2018 07:00:00 GMT+0800",
+    "10k": "Apr 1 2018 07:00:00 GMT+0800"
+  }
+}

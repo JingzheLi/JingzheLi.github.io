@@ -1,0 +1,4 @@
+[
+  {"name":"赛事相册","icon":"img/photo.png","func":"gotoFunc","param":"/pages/service/album", "extra":"album=album/@raceid@&title=无水印高清&width=3000"},
+  {"name":"轨迹导航","icon":"img/map.png","func":"gotoFunc","param":"/pages/gpx/gpx","extra":"track=50knav"}
+]

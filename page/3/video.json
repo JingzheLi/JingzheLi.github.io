@@ -1,0 +1,11 @@
+{
+	"title":"直播",
+	"sections":[
+		{
+			"title":"少儿越野赛",
+			"form":[
+					{"type":"video","value":"http://pl.live.weibo.com/alicdn/5e083df5ca8cc405b3cd4670781eb538_wb640.m3u8?auth_key=1492927039-0-0-ec734c071eb6a194a089556934c04560"}
+				]
+		}
+	]
+}

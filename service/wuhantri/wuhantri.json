@@ -1,0 +1,6 @@
+[
+  {"name":"号码布","icon":"img/bib.png","func":"show","param":"racebib/@raceid@/@bib@.png"},
+  {"name":"赛事信息","icon":"img/process.png", "func":"gotoPage","param":"info.json"},
+  {"name":"分组信息","icon":"img/timing.svg","func":"gotoPage","param":"group.json"},
+  {"name":"完赛证书","icon":"img/result.png","func":"show","param":"cert/@raceid@/@bib@.jpg", "extra1":"album=album/@raceid@&width=1000&title=赛事相册"}
+]

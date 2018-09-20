@@ -1,0 +1,6 @@
+[
+{"pagetitle":"赛道图示"},
+{"type":"subtitle","value":"@group@组"},
+{"type":"image","value":"http://www.raceonhills.com/image/@raceid@/map@group@.jpg"},
+{"type":"image","value":"http://www.raceonhills.com/image/@raceid@/ele@group@.jpg"}
+]

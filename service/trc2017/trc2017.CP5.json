@@ -1,0 +1,4 @@
+[
+    {"name":"龙涎谷扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP5&parent=parent&nodeName=龙涎谷"},
+    {"name":"龙涎谷列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP5&parent=bagCheckout&nodeName=龙涎谷"}
+]

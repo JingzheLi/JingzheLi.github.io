@@ -1,0 +1,4 @@
+[
+    {"name":"@name@扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=naishi&parent=parent&nodeName=@name@"},
+    {"name":"@name@列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=naishi&parent=bagCheckout&nodeName=@name@"}
+]

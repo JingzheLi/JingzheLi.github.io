@@ -1,0 +1,12 @@
+[
+   {"name":"赛事名册","icon":"img/phone.png","func":"gotoFunc","param":"/pages/organiser/racerlist","extra":"readonly=false"},
+   {"name":"成绩信息","icon":"img/node.svg","func":"gotoFunc","param":"/pages/organiser/timinglist"},
+   {"name":"检录列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=checkin&parent=parent&nodeName=检录"},
+   {"name":"祁连乡列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=SCP1&parent=checkin&nodeName=SCP1"},
+   {"name":"红山泉列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=SCP2&parent=SCP1&nodeName=SCP2"},
+   {"name":"毛藏乡列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=SCP3&parent=SCP2&nodeName=SCP3"},
+   {"name":"红山泉折返列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=SCP4&parent=SCP3&nodeName=SCP4"},
+   {"name":"祁连乡折返列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=SCP5&parent=SCP4&nodeName=SCP5"},
+   {"name":"终点列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=finish&parent=SCP5&nodeName=终点"}
+
+]

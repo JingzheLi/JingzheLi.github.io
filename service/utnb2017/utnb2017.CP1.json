@@ -1,0 +1,4 @@
+[
+    {"name":"养鸡场扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP1&parent=parent&nodeName=养鸡场"},
+    {"name":"养鸡场列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP1&parent=bagCheckout&nodeName=养鸡场"}
+]

@@ -1,0 +1,7 @@
+[
+{"type":"singleLine","name":"name","displayName":"姓名","promptText":"","val":"@name@","disabled":true},
+{"type":"singleLine","name":"bib","displayName":"参赛号","promptText":"","val":"@bib@","disabled":true},
+{"type":"singleLine","name":"route","displayName":"卡类型","promptText":"","val":"分享卡","disabled":true},
+{"type":"pickDate", "name":"date", "displayName":"完成日期", "promptText":"", "val":""},
+{"type":"upload","name":"snapshot","displayName":"分享截图","promptText":"","val":""}
+]

@@ -1,0 +1,4 @@
+[{"type":"singleLine", "disabled":true, "name":"name", "displayName":"姓名", "promptText":"","val":""},
+{"type":"singleLine","disabled":true, "name":"bib","displayName":"参赛号","promptText":"", "val":""},
+{"type":"singleLine","disabled":true, "name":"route", "displayName":"班次","promptText":"8月26 17:30-18:30 凭号码布上车","val":"天泰体育场发车（不保证座位）"},
+{"type":"singleLine","disabled":true, "name":"disclaimer", "displayName":"返程","promptText":"由于国家规定公交不得半夜运营","val":"赛事无法提供返程接驳车"}]

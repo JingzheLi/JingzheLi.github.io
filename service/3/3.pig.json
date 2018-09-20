@@ -1,0 +1,9 @@
+ [{"name":"号码布","icon":"icon/pig.png","func":"showBib","param":"v0.2"},
+  {"name":"赛事流程","icon":"icon/pig.png", "func":"gotoPage","param":"info.json"},
+    {"name":"强制装备","icon":"icon/pig.png","func":"gotoGears"},
+    {"name":"赛道图示", "icon":"icon/pig.png", "func":"showMap","param":"v0.2"},
+    {"name":"轨迹导航","icon":"icon/pig.png","func":"gotoFunc","param":"/pages/gpx/livegpx"},
+    {"name":"联系救助","icon":"icon/pig.png","func":"makeCall","param":[{"desc":"赛道救援","phone":"13185671262,22"}]},
+    {"name":"成绩/证书","icon":"icon/pig.png","func":"showCert","param":"v1.1"},
+    {"name":"补发赛包登记", "icon":"icon/pig.png", "func":"gotoFunc","param":"/pages/service/bagForm","extra":"pagetitle=未参赛选手补寄参赛包登记&raceid=3&form=bag&exclude=bagCheckout"}
+]

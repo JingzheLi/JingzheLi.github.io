@@ -1,0 +1,20 @@
+{
+  "test":{"displayName":"测试","type":"event","order":1,"parent":""},
+  "bus":{"displayName":"去程大巴预订", "type":"event", "order":0},
+  "bagCheckout":{"displayName":"领物报到","type":"event","order":2,"parent":"parent"},
+  "bagCheck":{"displayName":"领参赛包","type":"event","order":3,"parent":"parent"},
+  "bagDropIn":{"displayName":"存包","type":"event","order":4,"parent":"parent"},
+  "bagPickUp":{"displayName":"取包","type":"event","order":5,"parent":"bagDropIn"},
+  "CP1":{"displayName":"CP1溪西村", "type":"timing", "order":1,"parent":"parent"},
+  "CP2":{"displayName":"CP2台头山", "type":"timing", "order":2,"parent":"parent"},
+  "CP3":{"displayName":"CP3牛塘", "type":"timing", "order":3,"parent":"parent"},
+  "CP4":{"displayName":"CP4石门坑", "type":"timing", "order":3,"parent":"parent"},
+  "CP5":{"displayName":"CP5下岩贝", "type":"timing", "order":4,"parent":"parent"},
+  "finish":{"displayName":"终点","type":"timing","order":7,"parent":"parent"},
+  "withdraw":{"displayName":"退赛列表","type":"timing","order":999},
+  "_start":{
+    "42k": "Jan 1 2018 07:30:00 GMT+0800",
+    "21k": "Jan 1 2018 07:30:00 GMT+0800",
+    "10k": "Jan 1 2018 07:30:00 GMT+0800"
+  }
+}

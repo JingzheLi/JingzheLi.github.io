@@ -1,0 +1,9 @@
+{
+"bagCheckout":{"displayName":"领包签到","type":"event","order":1},
+"bagDropIn":{"displayName":"存包","type":"event","order":2},
+"bagPickup":{"displayName":"取包","type":"event","order":3},
+"withdraw":{"displayName":"退赛","type":"timing","order":999},
+"bus":{"displayName":"大巴预订", "type":"event", "order":3},
+"timing":{"displayName":"终点计时","type":"timing","order":1},
+"_start":{"15k":"May 28 2017 14:00:00 GMT+0800"}
+}

@@ -1,0 +1,4 @@
+[
+    {"name":"糜不老墩扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP3&parent=parent&nodeName=糜不老墩"},
+    {"name":"糜不老墩列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP3&parent=CP2&nodeName=糜不老墩"}
+]

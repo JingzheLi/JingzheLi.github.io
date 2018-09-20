@@ -1,0 +1,5 @@
+[{"type":"singleLine", "name":"name", "displayName":"真实姓名", "promptText":"Full name","val":""},
+{"type":"singleLine","name":"mobile", "displayName":"联系电话","promptText":"Telephone","val":"","charLimit":"15"},
+{"type":"pickChoice","name":"gender", "displayName":"性别","promptText":"Gender", "val":"","listing":["男","女"]},
+{"type":"singleLine","name":"city", "displayName":"所在城市", "val":"", "promptText":"City of residence", "charLmit":"15"}
+]

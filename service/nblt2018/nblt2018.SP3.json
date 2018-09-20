@@ -1,0 +1,4 @@
+[
+    {"name":"长水涧扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=SP3&parent=parent&nodeName=长水涧"},
+    {"name":"长水涧列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=SP3&parent=SP2&nodeName=长水涧"}
+]

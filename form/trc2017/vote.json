@@ -1,0 +1,5 @@
+[
+{"type":"singleLine", "disabled":true, "name":"name", "displayName":"姓名", "promptText":"Name","val":""},
+{"type":"singleLine","disabled":true, "name":"bib","displayName":"参赛号","promptText":"Bib", "val":""},
+{"type":"pickChoice", "name":"team", "displayName":"冠亚季获奖最多的战队是","promptText":"","val":"","listing":["Altra","NATHAN", "exciTING DESIGN","MD","美利沃"]}
+]

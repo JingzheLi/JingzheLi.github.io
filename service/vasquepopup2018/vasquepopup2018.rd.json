@@ -1,0 +1,41 @@
+[
+  {
+    "name": "赛事名册",
+    "icon": "icon/split/mynode.svg",
+    "func": "gotoFunc",
+    "param": "/pages/organiser/racerlist",
+    "extra": "readonly=false"
+  },
+  {
+    "name": "审核成绩",
+    "icon": "icon/split/idea.svg",
+    "func": "gotoFunc",
+    "param": "/pages/fkt/audit"
+  },
+  {
+    "name": "赛事动态",
+    "icon": "icon/split/feed.svg?a",
+    "func": "gotoFunc",
+    "param": "/pages/feed/feed?compose=true&avatar=@cdn@/cover/vasquepopup2018.svg"
+  },
+  {
+    "name": "状态表",
+    "icon": "icon/split/scan.svg",
+    "func": "gotoFunc",
+    "param": "/pages/organiser/timinglist",
+    "extra": "type=event"
+  },
+  {
+    "name": "成绩",
+    "icon": "icon/split/mynode.svg",
+    "func": "gotoFunc",
+    "param": "/pages/fkt/resultlist"
+  },
+  {
+    "name": "照片",
+    "icon": "img/photo.png",
+    "func": "gotoFunc",
+    "param": "/pages/service/album",
+    "extra": "album=upload&title=UPLOAD"
+  }
+]

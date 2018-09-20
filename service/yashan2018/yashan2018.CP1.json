@@ -1,0 +1,4 @@
+[
+    {"name":"妖魔山大门扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP1&parent=parent&nodeName=妖魔山大门"},
+    {"name":"妖魔山大门列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP1&parent=parent&nodeName=妖魔山大门"}
+]

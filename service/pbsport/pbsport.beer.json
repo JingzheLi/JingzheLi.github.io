@@ -1,0 +1,4 @@
+[
+    {"name":"领啤酒扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=beer&parent=parent&nodeName=领啤酒"},
+    {"name":"领啤酒列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=beer&parent=bagCheckout&nodeName=领啤酒"}
+]

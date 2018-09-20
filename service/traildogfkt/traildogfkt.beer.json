@@ -1,0 +1,4 @@
+[
+    {"name":"@name@ 领酒", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=beer&parent=parent&nodeName=@name@"},
+    {"name":"已领酒列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=beer&parent=parent&nodeName=@name@"}
+]

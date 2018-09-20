@@ -1,0 +1,5 @@
+[
+  {"name":"视频","icon":"icon/split/video.svg","func":"gotoPage","param":"video"},
+  {"name":"报名","icon":"icon/split/bib.svg", "func":"miniapp","param":"wxec6480f732fa43f1", "extra":"/pages/rd/rd?returnUrl=https%3A%2F%2Fzuicool.com%2Fevent%2F8515686"},
+  {"name":"解绑游客", "icon":"icon/split/exit.svg", "func":"showRaceOption","extra":"请点击页面上方赛事logo进行解绑"}
+]

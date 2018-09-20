@@ -1,0 +1,24 @@
+{
+  "bus":{"displayName":"去程大巴预订", "type":"event", "order":0},
+  "returnBus":{"displayName":"回程大巴预订", "type":"event", "order":1},
+  "bagCheckout":{"displayName":"领物报到","type":"event","order":2,"parent":"parent"},
+  "bagCheck":{"displayName":"领参赛包","type":"event","order":3,"parent":"parent"},
+  "bagDropIn":{"displayName":"存包","type":"event","order":4,"parent":"parent"},
+  "bagPickUp":{"displayName":"取包","type":"event","order":5,"parent":"bagDropIn"},
+  "prize":{"displayName":"完赛领奖","type":"event","order":6,"parent":"parent"},
+  "start":{"displayName":"起点","type":"timing","order":1},
+  "CP1":{"displayName":"兰树坑","type":"timing","order":1},
+  "CP2":{"displayName":"东沈村","type":"timing","order":1},
+  "CP3":{"displayName":"佛堂村委会","type":"timing","order":1},
+  "CP4":{"displayName":"南路村","type":"timing","order":1},
+  "CPX":{"displayName":"后坞村","type":"timing","order":1},
+  "finish":{"displayName":"终点过线","type":"timing","order":1},
+  "teamfinish":{"displayName":"团队成绩","type":"timing","order":1},
+  "withdrawn":{"displayName":"退赛","type":"timing","order":999},
+  "_start":{
+    "65k": "Oct 28 2017 07:00:00 GMT+0800",
+    "30k": "Oct 28 2017 09:00:00 GMT+0800",
+    "65k-team": "Oct 28 2017 07:00:00 GMT+0800",
+    "30k-team":  "Oct 28 2017 09:00:00 GMT+0800"
+  }
+}

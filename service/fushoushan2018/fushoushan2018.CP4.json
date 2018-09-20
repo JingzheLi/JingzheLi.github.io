@@ -1,0 +1,4 @@
+[
+    {"name":"若水亭扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP4&parent=parent&nodeName=若水亭"},
+    {"name":"若水亭列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP4&parent=parent&nodeName=若水亭"}
+]

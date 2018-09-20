@@ -1,0 +1,10 @@
+[
+{"type":"multiChoice", "name":"ok", "displayName":"好吧", "promptText":"", "val":"","listing":["杭州-20k","苏州-23k","宁波-24k","无锡-17k"]},
+{"type":"singleLine","name":"name","displayName":"姓名","promptText":"","val":"@name@","disabled":true},
+{"type":"singleLine","name":"bib","displayName":"参赛号","promptText":"","val":"@bib@","disabled":true},
+{"type":"pickChoice","name":"route","displayName":"线路","promptText":"","val":"","listing":["杭州-20k","苏州-23k","宁波-24k","无锡-17k"]},
+{"type":"pickDate", "name":"date", "displayName":"完成日期", "promptText":"", "val":""},
+"time",
+{"type":"upload","name":"fkt","displayName":"有轨迹/完成时间的记录截图","promptText":"","val":""},
+{"type":"upload","name":"trash","displayName":"和垃圾的合影","promptText":"","val":""}]
+

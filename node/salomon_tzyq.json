@@ -1,0 +1,5 @@
+{
+  "top":{"displayName":"折返点","type":"timing","order":1, "parent":""},
+  "finish":{"displayName":"起终点","type":"timing","order":2, "parent":""},
+  "_start":{"16k":"Sep 24 2017 08:00:00 GMT+0800"}
+}

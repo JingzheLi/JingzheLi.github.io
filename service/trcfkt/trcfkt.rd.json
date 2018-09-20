@@ -1,0 +1,6 @@
+[
+  {"name":"审核成绩","icon":"img/phone.png","func":"gotoFunc","param":"/pages/fkt/audit"},
+  {"name":"查看排名","icon":"img/process.png", "func":"gotoFunc","param":"/pages/fkt/resultlist","extra":""},
+  {"name":"偷看照片","icon":"img/photo.png","func":"gotoFunc","param":"/pages/service/album", "extra":"album=upload&title=追猎四城"},
+  {"name":"赛事名册","icon":"img/phone.png","func":"gotoFunc","param":"/pages/organiser/racerlist","extra":"readonly=false"}
+]

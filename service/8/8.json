@@ -1,0 +1,7 @@
+[ {"name":"","icon":"icon/8/bib.svg","func":"show","param":"racebib/@raceid@/@bib@@name@.png?a=1"},
+  {"name":"","icon":"icon/8/navi.svg","func":"gotoFunc","param":"/pages/gpx/gpx"},
+  {"name":"","icon":"icon/8/course.svg","func":"show","param":"image/@raceid@/@group@.png"},
+  {"name":"","icon":"icon/8/gear.svg","func":"gotoFunc","param":"/pages/service/gears","extra":"&english=true"},
+  {"name":"","icon":"icon/8/info.svg", "func":"gotoPage","param":"info.json","extra":"english=true"},
+  {"name":"","icon":"icon/8/hotel.svg","func":"gotoPage","param":"hotel.json", "extra":"english=true"}
+]

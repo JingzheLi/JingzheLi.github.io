@@ -1,0 +1,17 @@
+{
+"test":{"displayName":"测试","type":"event","order":1,"parent":""},
+"bagCheckout":{"displayName":"领物报到","type":"event","order":2,"parent":"parent"},
+"bagCheck":{"displayName":"领参赛包","type":"event","order":3,"parent":"parent"},
+"bagDropIn":{"displayName":"存包","type":"event","order":4,"parent":"parent"},
+"bagPickUp":{"displayName":"取包","type":"event","order":5,"parent":"bagDropIn"},
+"CP1":{"displayName":"CP1寺岭", "type":"timing", "order":1,"parent":"bagCheckout"},
+"CP2":{"displayName":"CP2荣胜", "type":"timing", "order":2,"parent":"CP1"},
+"CP3":{"displayName":"CP3", "type":"timing", "order":3,"parent":"CP2"},
+"finish":{"displayName":"终点","type":"timing","order":7,"parent":"bagCheckout"},
+"withdraw":{"displayName":"退赛列表","type":"timing","order":999},
+"_start":{
+"25k": "Apr 22 2018 08:53:00 GMT+0800",
+"10k": "Apr 22 2018 08:53:00 GMT+0800",
+"5k": "Apr 22 2018 08:53:00 GMT+0800"
+}
+}

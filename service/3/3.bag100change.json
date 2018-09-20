@@ -1,0 +1,4 @@
+[
+    {"name":"100换装扫码", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=bag100change&parent=bag100unload&nodeName=100换装"},
+    {"name":"100换装列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bag100change&parent=bag100unload&nodeName=100换装列表"}
+]

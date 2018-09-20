@@ -1,0 +1,5 @@
+[
+    {"name":"15公里扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/scan","extra":"node=15k&parent=parent&nodeName=15公里"},
+    {"name":"15公里列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=15k&parent=bagCheckout&nodeName=15公里"},
+    {"name":"老版扫码", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=15k&parent=parent&nodeName=15公里"}
+]

@@ -1,0 +1,14 @@
+{
+"bagCheckout":{"displayName":"领包","type":"event","order":1},
+"bagDropIn":{"displayName":"存包","type":"event","order":2,"parent":"bagCheckout"},
+"prize":{"displayName":"领奖", "type":"event", "order":3,"parent":"bagCheckout"},
+"beer":{"displayName":"领啤酒", "type":"event", "order":4,"parent":"bagCheckout"},
+"CP1":{"displayName":"CP1-锡惠公园", "type":"timing", "order":1,"parent":"bagCheckout"},
+"CP2":{"displayName":"CP2-石门下", "type":"timing", "order":2,"parent":"CP1"},
+"SP2":{"displayName":"SP2-钱荣路", "type":"timing", "order":3,"parent":"CP2"},
+"SP3":{"displayName":"SP3-白沙泉", "type":"timing", "order":4,"parent":"bagCheckout"},
+"finish":{"displayName":"终点","type":"timing","order":7,"parent":"bagCheckout"},
+"withdraw":{"displayName":"退赛","type":"timing","order":999,"parent":"bagCheckout"},
+"_start":{"10k":"Aug 19 2017 18:00:00 GMT+0800",
+	  "21k":"Aug 19 2017 16:30:00 GMT+0800"}
+}

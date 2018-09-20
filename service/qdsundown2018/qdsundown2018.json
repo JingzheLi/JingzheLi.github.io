@@ -1,0 +1,9 @@
+[
+  {"name":"号码布","icon":"icon/split/bib.svg","func":"gotoPage","param":"bib"},
+  {"name":"成绩证书","icon":"icon/split/cert.svg","func":"gotoPage","param":"cert"},
+  {"name":"赛事流程","icon":"icon/split/info.svg", "func":"gotoPage","param":"info"},
+  {"name":"现场图示","icon":"icon/split/map.svg", "func":"gotoPage","param":"layout"},
+  {"name":"赛事动态","icon":"icon/split/feed.svg","func": "gotoFunc","param": "/pages/feed/feed","extra":"compose=@compose@"},
+  {"name":"联系","icon":"icon/split/phone.svg","func":"makeCall","param":[{"desc":"组委会","phone":"0532-66971999"}]},
+  {"name":"我的状态", "icon":"icon/split/mynode.svg", "func":"gotoFunc","param":"/pages/runner/mynode"}
+]

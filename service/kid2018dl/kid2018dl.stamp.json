@@ -1,0 +1,4 @@
+[
+    {"name":"号码布定制扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=stamp&parent=parent&nodeName=号码布定制"},
+    {"name":"号码布定制列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=stamp&parent=&nodeName=号码布定制"}
+]

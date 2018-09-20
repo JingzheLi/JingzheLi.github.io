@@ -1,0 +1,4 @@
+[
+    {"name":"百公里终点包抵达扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=100kBagFinishUnload&parent=parent&nodeName=百公里终点包抵达"},
+    {"name":"百公里终点包抵达列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=100kBagFinishUnload&parent=100kBagFinish&nodeName=百公里终点包抵达"}
+]

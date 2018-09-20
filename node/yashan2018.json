@@ -1,0 +1,21 @@
+{
+"test":{"displayName":"测试","type":"event","order":1,"parent":""},
+"bagCheckout":{"displayName":"领物报到","type":"event","order":2,"parent":"parent"},
+"bagCheck":{"displayName":"领参赛包","type":"event","order":3,"parent":"parent"},
+"bagDropIn":{"displayName":"存包","type":"event","order":4,"parent":"parent"},
+"bagPickUp":{"displayName":"取包","type":"event","order":5,"parent":"bagDropIn"},
+"enroll":{"displayName":"检录","type":"event","order":6,"parent":"parent"},
+"CP1":{"displayName":"妖魔山大门", "type":"timing", "order":1,"parent":"parent"},
+"CP2":{"displayName":"妖魔山度假村", "type":"timing", "order":2,"parent":"CP1"},
+"CP2A":{"displayName":"高山路", "type":"timing", "order":3,"parent":"CP1"},
+"CP3":{"displayName":"八四一", "type":"timing", "order":4,"parent":"CP2"},
+"CP4":{"displayName":"生命之树", "type":"timing", "order":5,"parent":"CP3"},
+"CP5":{"displayName":"苗圃基地", "type":"timing", "order":6,"parent":"CP4"},
+"withdraw":{"displayName":"退赛列表","type":"timing","order":999},
+"finish":{"displayName":"终点","type":"timing","order":7,"parent":"parent"},
+"_start":{
+"30k": "Jan 27 2018 10:55:00 GMT+0800",
+"10k": "Jan 27 2018 10:55:00 GMT+0800",
+"family":  "Jan 27 2018 10:59:00 GMT+0800"
+}
+}

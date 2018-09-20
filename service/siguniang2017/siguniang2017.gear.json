@@ -1,0 +1,4 @@
+[
+    {"name":"强制装备检查扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=gear&parent=bagCheckout&current=true&nodeName=强制装备检查"},
+    {"name":"强制装备检查列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=gear&parent=bagCheckout&nodeName=强制装备检查"}
+]

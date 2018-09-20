@@ -1,0 +1,6 @@
+[{"type":"singleLine","name":"name","displayName":"姓名","promptText":"","val":"@name@","disabled":true},
+{"type":"singleLine","name":"bib","displayName":"参赛号","promptText":"","val":"@bib@","disabled":true},
+{"type":"singleLine","name":"route","displayName":"线路","promptText":"","val":"标毅25k","disabled":true},
+{"type":"pickDate", "name":"date", "displayName":"完成日期", "promptText":"", "val":""},
+"time",
+{"type":"upload","name":"fkt","displayName":"有轨迹/完成时间的记录截图","promptText":"","val":""}]

@@ -1,0 +1,70 @@
+{
+	"8-13":{
+		"mandatory":[
+			"无"
+		],
+		"mandatory_en": [ 
+			"N/A"
+		],
+		"recommended":[
+			"一部充满电的手机；",
+			"少量现金；",
+			"越野鞋；",
+			"水袋或水壶；",
+			"太阳镜或空顶帽；",
+			"能量食品；",
+			"一只个人垃圾袋；",
+			"一只救生哨; ",
+			"带高度显示与指南针功能的GPS手表；",
+			"较为齐全的个人医护包（ 内含：纱布、绷带、消毒纸巾、创可贴止痛药、解暑药品及任何适当的个人药品 ）",
+			"一个能够容纳所需装备的背包；"
+		],
+		"recommended_en":[
+			"A fully charged mobile phone;",
+			"Some cash;",
+			"Trail running shoes;",
+			"Water bottle or bladders;",
+			"Sun glasses or visor;",
+			"Energy-boosting food;",
+			"A trash bag for personal rubbish;",
+			"A whistle;",
+			"GPS watch with altimeter and compass function;",
+			"More substantial first-aid kit; (sterile dressings, strapping tape, antiseptic wipes, band-aids, painkillers, heat relief medicines and any other personal medications )",
+			"A backpack that can hold all of the gears;"
+		]
+	},
+	"14-18":{
+		"mandatory":[
+			"无"
+		],
+		"mandatory_en": [ 
+			"N/A"
+		],
+		"recommended":[
+			"一部充满电的手机；",
+			"少量现金；",
+			"越野鞋；",
+			"水袋或水壶；",
+			"太阳镜或空顶帽；",
+			"能量食品；",
+			"一只个人垃圾袋；",
+			"一只救生哨; ",
+			"带高度显示与指南针功能的GPS手表；",
+			"较为齐全的个人医护包（ 内含：纱布、绷带、消毒纸巾、创可贴止痛药、解暑药品及任何适当的个人药品 ）",
+			"一个能够容纳所需装备的背包；"
+		],
+		"recommended_en":[
+			"A fully charged mobile phone;",
+			"Some cash;",
+			"Trail running shoes;",
+			"Water bottle or bladders;",
+			"Sun glasses or visor;",
+			"Energy-boosting food;",
+			"A trash bag for personal rubbish;",
+			"A whistle;",
+			"GPS watch with altimeter and compass function;",
+			"More substantial first-aid kit; (sterile dressings, strapping tape, antiseptic wipes, band-aids, painkillers, heat relief medicines and any other personal medications )",
+			"A backpack that can hold all of the gears;"
+		]
+	}
+}

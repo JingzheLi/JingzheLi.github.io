@@ -1,0 +1,13 @@
+[
+  {
+    "name": "赛事动态",
+    "icon": "icon/split/feed.svg",
+    "func": "gotoFunc",
+    "param": "/pages/feed/feed?compose=true"
+  },
+  {
+    "name": "解绑",
+    "icon": "icon/split/exit.svg",
+    "func": "showRaceOption"
+  }
+]

@@ -1,0 +1,4 @@
+[
+    {"name":"取转运包-CP4扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=transitPickUp&parent=parent&nodeName=取转运包-CP4"},
+    {"name":"取转运包-CP4列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=transitPickUp&parent=transitDropIn&nodeName=取转运包-CP4"}
+]

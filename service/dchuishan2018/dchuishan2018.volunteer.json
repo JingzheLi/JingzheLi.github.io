@@ -1,0 +1,9 @@
+[
+  {
+    "name": "志愿者证书",
+    "icon": "icon/split/cert.svg",
+    "func": "gotoPage",
+    "param": "cert.json"
+  },
+  { "name": "解绑", "icon": "icon/split/exit.svg", "func": "showRaceOption" }
+]

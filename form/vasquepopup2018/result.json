@@ -1,0 +1,8 @@
+[{"type":"singleLine","name":"name","displayName":"姓名","promptText":"","val":"@name@","disabled":true},
+  {"type":"singleLine","name":"gender","displayName":"性别","promptText":"","val":"@gender@","disabled":true},
+{"type":"singleLine","name":"bib","displayName":"参赛号","promptText":"","val":"@bib@","disabled":true},
+{"type":"singleLine", "name":"route", "displayName":"组别", "promptText":"", "val":"20k","disabled":true},
+{"type":"pickDate", "name":"date", "displayName":"完成日期", "promptText":"", "val":""},
+"time",
+{"type":"upload","name":"fkt","displayName":"有轨迹/完成时间的记录截图","promptText":"","val":""},
+{"type":"upload","name":"trash","displayName":"和垃圾的合影","promptText":"","val":""}]

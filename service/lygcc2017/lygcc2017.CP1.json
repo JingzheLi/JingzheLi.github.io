@@ -1,0 +1,4 @@
+[
+    {"name":"CP1安和寺扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP1&parent=parent&nodeName=CP1安和寺"},
+    {"name":"CP1安和寺列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP1&parent=parent&nodeName=CP1安和寺"}
+]

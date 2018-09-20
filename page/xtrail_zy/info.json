@@ -1,0 +1,20 @@
+[
+{"pagetitle":"赛事信息"},
+{"type":"title","value":"领物"},
+{"type":"text", "value":"时间：2017年8月25日 10:00-19:30"},
+{"type":"text", "value":"地点：张掖市全民健身中心"},
+{"type":"map","longitude":100.456142,"latitude": 38.949553,"markers":[{"id":"[100.456142, 38.949553]","title":"张掖市全民健身中心","width":45,"height":45,"iconPath":"/image/marker.png","longitude":100.456142,"latitude": 38.949553}]},
+{"type":"text", "value":"【点击地图中标点可打开地图app导航】"},
+{"type":"text", "value":""},
+{"type":"subsubtitle","value":"重要提示"},
+{"type":"li", "value":"请携带本人身份证领取参赛物品；"},
+{"type":"li", "value":"请准备500元现金作为指卡押金；"},
+{"type":"li", "value":"如请朋友代领：代领人携带被代领人的身份证复印件（或照片）到报到处领取并签字。"},
+{"type":"li", "value":"如因交通延迟错过报到时间，请及时联系组委会"},
+{"type":"phone","value":"18811733404"},
+{"type":"text", "value":""},
+{"type":"title","value":"日程安排"},
+{"type":"image","value":"http://www.raceonhills.com/image/@raceid@/schedule.svg"},
+{"type":"text", "value":"颁奖仪式需获奖选手持本人身份证领取，如不到场视为放弃，组委会不在赛后补寄奖品。"},
+{"type":"text", "value":""}
+]

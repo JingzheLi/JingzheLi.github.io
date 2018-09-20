@@ -1,0 +1,5 @@
+[
+    {"name":"取包扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/scan","extra":"node=bagPickUp&parent=parent&nodeName=取包"},
+    {"name":"取包列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bagPickUp&parent=bagDropIn&nodeName=取包"},
+    {"name":"老版扫码", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=bagPickUp&parent=parent&nodeName=取包"}
+]

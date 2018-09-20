@@ -1,0 +1,8 @@
+[ {"name":"","icon":"icon/young2017/cbib.svg","func":"show","param":"racebib/@raceid@/@bib@child.png"},
+  {"name":"","icon":"icon/young2017/pbib.svg","func":"show","param":"racebib/@raceid@/@bib@parent.png"},
+  {"name":"","icon":"icon/young2017/navi.svg","func":"gotoFunc","param":"/pages/gpx/gpx"},
+  {"name":"","icon":"icon/young2017/course.svg","func":"show","param":"image/@raceid@/course.png"},
+  {"name":"","icon":"icon/young2017/gear.svg","func":"gotoFunc","param":"/pages/service/gears","extra":"&english=true"},
+  {"name":"","icon":"icon/young2017/info.svg", "func":"gotoPage","param":"info.json","extra":"english=true"},
+  {"name":"","icon":"icon/young2017/hotel.svg","func":"gotoPage","param":"hotel.json", "extra":"english=true"}
+]

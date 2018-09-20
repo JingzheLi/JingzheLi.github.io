@@ -1,0 +1,4 @@
+[
+    {"name":"环山路扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP1&parent=parent&nodeName=环山路"},
+    {"name":"环山路列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP1&parent=parent&nodeName=环山路"}
+]

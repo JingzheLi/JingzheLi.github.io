@@ -1,0 +1,5 @@
+[
+    {"name":"检录扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/scan","extra":"node=checkin&parent=parent&nodeName=检录"},
+    {"name":"检录列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=checkin&parent=parent&nodeName=检录"},
+    {"name":"老版扫码", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=checkin&parent=parent&nodeName=检录"}
+]

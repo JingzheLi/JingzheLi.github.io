@@ -1,0 +1,12 @@
+[
+  {"name":"个人信息","icon":"img/bib.png","func":"gotoPage","param":"my.json"},
+  {"name":"赛事证书","icon":"img/result.png","func":"gotoPage","param":"cert.json"},
+  {"name":"赛事流程","icon":"img/process.png", "func":"gotoPage","param":"info.json"},
+  {"name":"往年影像","icon":"img/video.svg","func":"gotoPage","param":"video.json", "extra":"album=album/@raceid@/past&title=往年影像"},
+  {"name":"强制装备","icon":"img/equip.png","func":"gotoFunc","param":"/pages/service/gears"},
+  {"name":"轨迹导航","icon":"img/map.png","func":"gotoFunc","param":"/pages/gpx/gpx"},
+  {"name":"赛道图示","icon":"img/elevation.png","func":"gotoPage","param":"ele.json"},
+  {"name":"分段图","icon":"img/elevation.png","func":"gotoFunc","param":"/pages/service/album", "extra":"album=album/@raceid@/course&title=分段图示&width=1000"},
+  {"name":"联系救助","icon":"img/phone.png","func":"makeCall","param":[{"desc":"组委会","phone":"+852-54148996"},{"desc":"紧急电话1","phone":"+852-54149480"},{"desc":"紧急电话2","phone":"+852-54148911"},{"desc":"救护车","phone":"999"}]},
+  {"name":"解绑游客", "icon":"img/equip.png", "func":"showRaceOption"}
+]

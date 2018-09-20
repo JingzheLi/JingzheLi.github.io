@@ -1,0 +1,4 @@
+[
+    {"name":"第一天检录扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=checkin-day1&parent=parent&nodeName=第一天检录"},
+    {"name":"第一天检录列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=checkin-day1&parent=parent&nodeName=第一天检录"}
+]

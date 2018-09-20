@@ -1,0 +1,6 @@
+[
+  {"name":"实时成绩","icon":"img/node.svg","func":"gotoFunc","param":"/pages/organiser/timinglist"},
+  {"name":"赛事流程","icon":"img/process.png", "func":"gotoPage","param":"info.json"},
+  {"name":"赛道图示","icon":"img/elevation.png","func":"gotoPage","param":"ele.json"},
+  {"name":"解绑游客", "icon":"img/process.png", "func":"showRaceOption","extra":"请点击页面上方赛事logo进行解绑"}
+]

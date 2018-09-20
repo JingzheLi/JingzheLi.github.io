@@ -1,0 +1,7 @@
+[
+  {"name":"我的信息","icon":"icon/split/scan.svg","func":"gotoPage","param":"bib.json"},
+  {"name":"我的签到", "icon":"icon/split/mynode.svg", "func":"gotoFunc","param":"/pages/runner/mynode"},
+  {"name":"提交训练卡","icon":"icon/split/timing.svg", "func":"gotoFunc","param":"/pages/fkt/submit","extra1":"成绩提交已截止。", "extra":"form=result&title=提交训练打卡"},
+  {"name":"我的打卡","icon":"icon/split/cert.svg", "func":"gotoFunc","param":"/pages/fkt/myresult","extra":""},
+  {"name":"全员打卡表","icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/fkt/resultlist","extra":""}
+]

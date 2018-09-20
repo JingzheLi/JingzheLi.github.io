@@ -1,0 +1,4 @@
+[
+    {"name":"CP2荣胜扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP2&parent=parent&nodeName=CP2荣胜"},
+    {"name":"CP2荣胜列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP2&parent=CP1&nodeName=CP2荣胜"}
+]

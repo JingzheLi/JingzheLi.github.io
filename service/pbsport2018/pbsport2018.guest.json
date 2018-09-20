@@ -1,0 +1,6 @@
+[
+  {"name":"赛事动态","icon":"icon/split/feed.svg","func": "gotoFunc","param": "/pages/feed/feed"},
+  {"name":"实时成绩","icon":"icon/split/timing.svg","func":"gotoFunc","param":"/pages/organiser/timinglist"},
+  {"name":"赛事周边", "icon":"image/@raceid@/bag.png", "func":"miniapp","param":"wxe646920959fd148f", "extra":"pages/product/detail/detail?pid=pwzg3wCISAOqaH_vR5uTuBXvn_F4"},
+  {"name":"解绑游客", "icon":"icon/split/exit.svg", "func":"showRaceOption","extra":"请点击页面上方赛事logo进行解绑"}
+]

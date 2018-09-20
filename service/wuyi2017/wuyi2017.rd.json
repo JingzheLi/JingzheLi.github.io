@@ -1,0 +1,4 @@
+[
+   {"name":"赛事名册","icon":"img/phone.png","func":"gotoFunc","param":"/pages/organiser/racerlist","extra":"readonly=false"},
+   {"name":"选手状态","icon":"img/timing.svg","func":"gotoFunc","param":"/pages/organiser/timinglist","extra":"type=event"}
+]

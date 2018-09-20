@@ -1,0 +1,23 @@
+{
+  "bib": {
+    "displayName": "号码布领取",
+    "type": "event",
+    "order": 1,
+    "parent": "parent"
+  },
+  "medal": {
+    "displayName": "完赛品领取",
+    "type": "event",
+    "order": 2,
+    "parent": "parent"
+  },
+  "coffee": {
+    "displayName": "半价美式",
+    "type": "event",
+    "order": 3,
+    "parent": "parent"
+  },
+  "_start": {
+    "20k": "Mar 25 2018 06:30:00 GMT+0800"
+  }
+}

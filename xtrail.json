@@ -1,0 +1,5 @@
+{
+  "xtrail_yl":{"rank":"1997", "id":"xtrail_yl","itra":true, "type":"trail","group":["云豹组","灵猫组","岩羊组"],"cover_image":"http://www.raceonhills.com/cover/xtrail_yulong.png","title":"XTRAIL玉龙雪山越野赛","date":"2017-11-04"},
+  "xtrail_zy":{"rank":"1998","id":"xtrail_zy","itra":true, "type":"trail","group":["100K","50K"],"cover_image":"http://www.raceonhills.com/cover/xtrail-zhangye.png","theme":"text-shadow: 1px 3px 3px #000; color:white;font-weight:800;","title":"GARMIN · XTRAIL张掖祁连山百公里越野赛","date":"2017-08-26","bgColor":"#668fbb", "bgImg":"http://www.raceonhills.com/image/xtrail_zy/bg.jpg"},
+  "xtrail_gsq":{"rank":"1999", "id":"xtrail_gsq","itra":true, "type":"trail","group":["50k","fkt"],"cover_image":"http://cdn.raceonhills.com/asset/xtrail/xtrail-s.svg","title":"2017 XTRAIL门源岗什卡越野赛","date":"2017-07-15"}
+}

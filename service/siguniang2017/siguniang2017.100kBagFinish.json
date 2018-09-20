@@ -1,0 +1,4 @@
+[
+    {"name":"百公里终点包装车扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=100kBagFinish&parent=parent&nodeName=百公里终点包装车"},
+    {"name":"百公里终点包装车列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=100kBagFinish&parent=parent&nodeName=百公里终点包装车"}
+]

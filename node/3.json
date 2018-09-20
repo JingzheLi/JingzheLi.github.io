@@ -1,0 +1,9 @@
+{
+"bagCheckout":{"displayName":"领包签到","type":"event","order":1},
+"briefing":{"displayName":"Salomon神级玩家/技术说明会","type":"event", "order":2},
+"bagDropIn":{"displayName":"存包","type":"event","order":3},
+"bagPickup":{"displayName":"取包","type":"event","order":4},
+"timing.withdraw":{"displayName":"退赛","type":"timing","order":999},
+"timing":{"displayName":"终点计时","type":"timing","order":1},
+"_start":"2017-05-28T15:00:00Z"
+}

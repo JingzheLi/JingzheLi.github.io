@@ -1,0 +1,5 @@
+[
+    {"name":"@name@扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=SCP3&parent=parent&nodeName=@name@"},
+    {"name":"@name@列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=SCP3&parent=checkin&nodeName=@name@"},
+    {"name":"打卡说明","icon":"img/process.png", "func":"gotoPage","param":"timing.json"}
+]

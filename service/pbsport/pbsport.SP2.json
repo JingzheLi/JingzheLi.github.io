@@ -1,0 +1,4 @@
+[
+    {"name":"SP2-钱荣路扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=SP2&parent=parent&nodeName=SP2-钱荣路"},
+    {"name":"SP2-钱荣路列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=SP2&parent=CP2&nodeName=SP2-钱荣路"}
+]

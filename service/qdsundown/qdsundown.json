@@ -1,0 +1,9 @@
+[
+   {"name":"参赛照片","icon":"img/photoi.png","func":"gotoFunc","param":"/pages/runner/yundongPhoto"},
+  {"name":"号码布","icon":"img/bib.png","func":"gotoPage","param":"bib.json"},
+ {"name":"成绩/证书","icon":"img/result.png","func":"gotoPage","param":"cert.json","extra":"将在赛后开启。"},
+   {"name":"领物信息","icon":"img/process.png", "func":"gotoPage","param":"info.json"},
+    {"name":"赛道图示","icon":"img/elevation.png","func":"show","param":"image/@raceid@/route.png?v=1"},
+  {"name":"我的状态", "icon":"img/node.svg", "func":"gotoFunc","param":"/pages/runner/mynode"},
+  {"name":"去程巴士预订","icon":"img/bus.svg","func":"showDisabled","param":"/pages/form/simple","extra":"巴士登记已截止", "extra1":"title=巴士登记&display=disclaimer&form=bus&node=bus"}
+]

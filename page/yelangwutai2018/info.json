@@ -1,0 +1,18 @@
+[
+{"pagetitle":"赛事信息"},
+{"type":"text", "value":""},
+{"type":"title","value":"领物须知"},
+{"type":"text", "value":"时间：2018年8月17日 9:00-22:00"},
+{"type":"text", "value":"地点：五台山金都山庄"},
+{"type":"map","longitude":113.567488,"latitude":38.985661,"markers":[{"id":"[113.567488,38.985661]","title":"金都山庄","width":45,"height":45,"iconPath":"/image/marker.png","longitude":113.567488,"latitude":38.985661}]},
+{"type":"text", "value":"【点击地图中心地标可开启微信地图/导航/街景】"},
+{"type":"text", "value":""},
+{"type":"li", "value":"参赛选手现场签署免责声明，凭本人身份证或其他有效证件原件领取参赛物品。"},
+{"type":"li", "value":"选手需要先通过强制装备检查，再进行参赛包领取。"},
+{"type":"text", "value":""},
+{"type":"title","value":"比赛流程"},
+{"type":"text", "value":"起点位置：凤林禅寺"},
+{"type":"map","longitude":113.549619,"latitude":39.025417,"markers":[{"id":"[113.549619,39.025417]","title":"凤林禅寺","width":45,"height":45,"iconPath":"/image/marker.png","longitude":113.549619,"latitude":39.025417}]},
+{"type":"text", "value":"【点击地图中心地标可开启微信地图/导航/街景】"},
+{"type":"image","value":"http://www.raceonhills.com/image/@raceid@/sc.svg"}
+]

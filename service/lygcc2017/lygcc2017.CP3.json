@@ -1,0 +1,4 @@
+[
+    {"name":"CP3蜘蛛山扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP3&parent=parent&nodeName=CP3蜘蛛山"},
+    {"name":"CP3蜘蛛山列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP3&parent=parent&nodeName=CP3蜘蛛山"}
+]

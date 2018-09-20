@@ -1,0 +1,21 @@
+[
+{"pagetitle":"赛事信息"},
+{"type":"text", "value":""},
+{"type":"title","value":"领物须知"},
+{"type":"text", "value":"时间：2018年7月29日6:30-7:20"},
+{"type":"text", "value":"地点：福州鼓山下院登山道入口"},
+{"type":"map","longitude":119.372284,"latitude": 26.056124,"markers":[{"id":"[119.372284, 26.056124]","title":"华中科技大学温州研究院","width":45,"height":45,"iconPath":"/image/marker.png","longitude":119.372284,"latitude": 26.056124}]},
+{"type":"text", "value":"【点击地图中心地标可开启微信地图/导航/街景】"},
+{"type":"text", "value":""},
+{"type":"li", "value":"参赛选手现场凭本人身份证或其他有效证件原件领取参赛物品。"},
+{"type":"li", "value":"不可代领"},
+{"type":"text", "value":""},
+{"type":"title","value":"比赛流程"},
+{"type":"text", "value":""},
+{"type":"li", "value":"6:20-7:20  签到领物"},
+{"type":"li", "value":"7:20-7:25  拉伸操"},
+{"type":"li", "value":"7:25-7:30  活动注意事项提醒、合影"},
+{"type":"li", "value":"7:30  开跑"},
+{"type":"li", "value":"10:30 关门"},
+{"type":"li", "value":"12:00 聚餐抽奖（该环节在聚餐酒店大厅举行）"}
+]

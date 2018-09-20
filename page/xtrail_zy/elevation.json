@@ -1,0 +1,8 @@
+[
+{"pagetitle":"@group@组别赛程图"},
+{"type":"image","value":"http://www.raceonhills.com/image/@raceid@/@group@.jpg"},
+{"type":"image","value":"http://www.raceonhills.com/image/@raceid@/@group@.png"} ,
+{"type":"image","value":"http://www.raceonhills.com/image/@raceid@/provision@group@.svg"} ,
+{"type":"text", "value":" "},
+{"type":"text", "value":" "}
+]

@@ -1,0 +1,10 @@
+[
+   {"name":"赛事花名册","icon":"img/phone.png","func":"gotoFunc","param":"/pages/organiser/racerlist","extra":"readonly=false"},
+{"name":"巴士预定", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bus&parent=parent&nodeName=大巴预定"} ,
+    {"name":"终点计时", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=timing&parent=parent&nodeName=终点计时"},
+        {"name":"签到领包", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bagCheckout&parent=parent&nodeName=签到领包"},
+        {"name":"寄存包", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bagDropIn&parent=bagCheckout&nodeName=寄存"},
+        {"name":"取寄存包", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bagPickup&parent=bagCheckout&nodeName=取寄存包"},
+        {"name":"退赛", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=withdraw&parent=bagCheckout&nodeName=退赛"}
+
+]

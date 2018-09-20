@@ -1,0 +1,4 @@
+[
+    {"name":"测试扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=test&parent=parent&nodeName=测试"},
+    {"name":"测试列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=test&parent=parent&nodeName=测试"}
+]

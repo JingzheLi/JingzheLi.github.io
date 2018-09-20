@@ -1,0 +1,4 @@
+[
+    {"name":"换装包领取扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=100kBagTransitPickup&parent=parent&nodeName=换装包领取"},
+    {"name":"换装包领取列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=100kBagTransitPickup&parent=100kBagTransitUnload&nodeName=换装包领取"}
+]

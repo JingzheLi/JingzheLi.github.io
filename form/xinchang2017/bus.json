@@ -1,0 +1,7 @@
+[
+{"type":"singleLine", "disabled":true, "name":"name", "displayName":"姓名", "promptText":"Name","val":""},
+{"type":"singleLine","disabled":true, "name":"bib","displayName":"参赛号","promptText":"Bib", "val":""},
+{"type":"singleLine", "name":"mobile", "displayName":"电话","promptText":"Mobile","val":""},
+{"type":"pickChoice", "name":"seat", "displayName":"人数","promptText":"headcount","val":"","listing":["1","2","3","4"]},
+{"type":"singleLine", "disabled":true, "name":"disclaimer", "displayName":"费用支付","promptText":"10元/人，备注参赛号","val":"微信支付：XPP8865"}
+]

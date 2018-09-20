@@ -1,0 +1,53 @@
+{
+  "test": { "displayName": "测试", "type": "event", "order": 1, "parent": "" },
+  "livetrail": { "displayName": "长按右侧复制剪贴板", "type": "event", "order": 9, "parent": "" },
+  "compose": { "displayName": "直播员身份", "type": "event", "order": 0, "parent": "" },
+  "bagCheckout": {
+    "displayName": "领物报到",
+    "type": "event",
+    "order": 2,
+    "parent": "parent"
+  },
+  "bagCheck": {
+    "displayName": "领参赛包",
+    "type": "event",
+    "order": 3,
+    "parent": "parent"
+  },
+  "bagDropIn": {
+    "displayName": "存包",
+    "type": "event",
+    "order": 4,
+    "parent": "parent"
+  },
+  "transit":{
+    "displayName": "换装包寄存",
+    "type": "event",
+    "order": 5,
+    "parent": "parent"
+  },
+  "bagPickUp": {
+    "displayName": "取包",
+    "type": "event",
+    "order": 6,
+    "parent": "bagDropIn"
+  },
+  "checkin": {
+    "displayName": "检录",
+    "type": "event",
+    "order": 7,
+    "parent": "parent"
+  },
+  "withdraw": {
+    "displayName": "退赛列表",
+    "type": "timing",
+    "order": 999,
+    "parent": "parent"
+  },
+  "_start": {
+    "guest": "Mar 25 2018 06:00:00 GMT+0800",
+    "UTGK": "Mar 25 2018 06:00:00 GMT+0800",
+    "XTX": "Mar 25 2018 06:00:00 GMT+0800",
+    "ZTX": "Mar 25 2018 06:30:00 GMT+0800"
+  }
+}

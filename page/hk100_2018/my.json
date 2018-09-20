@@ -1,0 +1,13 @@
+[
+{"pagetitle":"@bib@ @name@"},
+{"type":"text", "value":""},
+{"type":"image","value":"http://www.raceonhills.com/racebib/@raceid@/@bib@.png"},
+{"type":"text", "value":""},
+{"type":"title","value":"个人信息"},
+{"type":"text", "value":"姓名：@name@"},
+{"type":"text", "value":"@firstname@ @lastname@"},
+{"type":"text", "value":"队伍：@team@"},
+{"type":"text", "value":""},
+{"type":"title","value":"@starttime@"},
+{"type":"text", "value":"我所在的起跑方阵：@wave@"}
+]

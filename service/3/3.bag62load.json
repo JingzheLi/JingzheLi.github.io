@@ -1,0 +1,6 @@
+[
+    {"name":"62装车扫码", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=bag62load&parent=bagDropIn&nodeName=62装车扫码"},
+    {"name":"62车列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bag62unload&parent=bag100load&nodeName=62装车列表"},
+    {"name":"62下车扫码", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bag62unload&parent=bag62load&nodeName=62下车扫码"}
+
+]

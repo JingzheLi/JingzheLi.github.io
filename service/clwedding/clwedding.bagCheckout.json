@@ -1,0 +1,4 @@
+[
+   {"name":"领物","icon":"img/node.svg","func":"gotoFunc","param":"/pages/organiser/idverify"},
+    {"name":"领参赛包列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bagCheckout&parent=bagCheckout&nodeName=领参赛包"}
+]

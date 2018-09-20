@@ -1,0 +1,84 @@
+{
+	"single":{
+		"mandatory":[
+			"一部充满电的手机；",
+			"一只头灯 / 手电；",
+			"一只救生哨; ",
+			"一张急救毯或类似保暖毯；",
+			"一份尺寸至少为7.5cm * 2.3m的压缩绷带；",
+			"容量不少于1L的水袋或水壶；",
+			"一只个人垃圾袋；",
+			"一个能够容纳所有强制装备的背包；",
+			"少量现金。"
+		],
+		"mandatory_en": [ 
+			"1 x fully charged mobile phone;",
+			"1 x headlamp or torch;",
+			"1 x whistle;",
+			"1 x emergency blanket or equivalent",
+			"1 x compression bandage ( minimum dimensions 7.5cm x 2.3m );",
+			"Water bottles or bladders with a capacity to carryat least 1 litre of water;",
+			"1 x trash bag for personal rubbish;",
+			"1 x backpack that can hold all of the mandatory gear;",
+			"Some cash."
+		],
+		"recommended":[
+			"能量食品；",
+			"一只便携水杯；（ 各个补给站内不提供任何纸杯, 请自备水杯/容器以便在补给站享用饮品汤食 ）",
+			"太阳镜或空顶帽；",
+			"防摩擦膏；",
+			"带高度显示与指南针功能的GPS手表；",
+			"较为齐全的个人医护包（ 内含：纱布、绷带、消毒纸巾、创可贴止痛药、解暑药品及任何适当的个人药品 ）"
+		],
+		"recommended_en":[
+			"Energy - boosting food;",
+			"Portable cup; ( No disposable cups will be provided at the checkpoints. Please bring along this or any other types of cups to enjoy the beverages and soups)",
+			"Sun glasses or empty top hat;",
+			"Anti - chafing cream;",
+			"GPS watch with altimeter and compass function;",
+			"More substantial first - aid kit; ( sterile dressings,roll of strapping tape, antiseptic wipes, band - aids, painkillers, heat relief medicines and any other personal medications )",
+			"Waterproof zip - lock bag."
+		]
+	},
+	"lover":{
+		"mandatory":[
+			"一部充满电的手机；",
+			"一只头灯 / 手电；",
+			"一只救生哨; ",
+			"一张急救毯或类似保暖毯；",
+			"一份尺寸至少为7.5cm * 2.3m的压缩绷带；",
+			"容量不少于1L的水袋或水壶；",
+			"一只个人垃圾袋；",
+			"一个能够容纳所有强制装备的背包；",
+			"少量现金。"
+		],
+		"mandatory_en": [ 
+			"1 x fully charged mobile phone;",
+			"1 x headlamp or torch;",
+			"1 x whistle;",
+			"1 x emergency blanket or equivalent",
+			"1 x compression bandage ( minimum dimensions 7.5cm x 2.3m );",
+			"Water bottles or bladders with a capacity to carryat least 1 litre of water;",
+			"1 x trash bag for personal rubbish;",
+			"1 x backpack that can hold all of the mandatory gear;",
+			"Some cash."
+		],
+		"recommended":[
+			"能量食品；",
+			"一只便携水杯；（ 各个补给站内不提供任何纸杯, 请自备水杯/容器以便在补给站享用饮品汤食 ）",
+			"太阳镜或空顶帽；",
+			"防摩擦膏；",
+			"带高度显示与指南针功能的GPS手表；",
+			"较为齐全的个人医护包（ 内含：纱布、绷带、消毒纸巾、创可贴止痛药、解暑药品及任何适当的个人药品 ）"
+		],
+		"recommended_en":[
+			"Energy - boosting food;",
+			"Portable cup; ( No disposable cups will be provided at the checkpoints. Please bring along this or any other types of cups to enjoy the beverages and soups)",
+			"Sun glasses or empty top hat;",
+			"Anti - chafing cream;",
+			"GPS watch with altimeter and compass function;",
+			"More substantial first - aid kit; ( sterile dressings,roll of strapping tape, antiseptic wipes, band - aids, painkillers, heat relief medicines and any other personal medications )",
+			"Waterproof zip - lock bag."
+		]
+	}
+}

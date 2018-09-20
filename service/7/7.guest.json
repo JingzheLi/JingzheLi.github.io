@@ -1,0 +1,3 @@
+[
+      {"name":"终点成绩", "icon":"icon/7/info.svg", "func":"gotoFunc","param":"/pages/organiser/timinglist","extra":"node=timing&parent=parent&nodeName=终点计时列表"}
+]

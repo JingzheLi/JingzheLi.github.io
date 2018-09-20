@@ -1,0 +1,4 @@
+[
+    {"name":"领参赛包扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=bagCheck&parent=parent&nodeName=领参赛包"},
+    {"name":"领参赛包列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bagCheck&parent=parent&nodeName=领参赛包"}
+]

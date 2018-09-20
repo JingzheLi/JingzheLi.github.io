@@ -1,0 +1,9 @@
+[
+  {
+    "name": "在现场",
+    "icon": "icon/split/feed.svg",
+    "func": "gotoFunc",
+    "param": "/pages/feed/feed?compose=true&avatar=@cdn@/cover/kailas.svg"
+  },
+  {"name":"解绑游客", "icon":"icon/split/exit.svg", "func":"showRaceOption","extra":"请点击页面上方赛事logo进行解绑"}
+]

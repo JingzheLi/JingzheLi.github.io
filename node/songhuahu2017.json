@@ -1,0 +1,18 @@
+{
+  "test":{"displayName":"测试","type":"event","order":1,"parent":""},
+  "bagCheckout":{"displayName":"领参赛包","type":"event","order":2,"parent":"parent"},
+  "bagDropIn":{"displayName":"存包","type":"event","order":3,"parent":"parent"},
+  "bagPickUp":{"displayName":"取存包","type":"event","order":5,"parent":"parent"},
+  "withdraw":{"displayName":"退赛列表","type":"timing","order":999},
+  "CP1":{"displayName":"CP1", "type":"timing", "order":1},
+  "CP2":{"displayName":"CP2", "type":"timing", "order":2},
+  "CP3":{"displayName":"CP3", "type":"timing", "order":3},
+  "CP4":{"displayName":"CP4", "type":"timing", "order":4},
+  "finish":{"displayName":"终点","type":"timing","order":7},
+  "_start":{
+    "50k": "Oct 7 2017 06:00:00 GMT+0800",
+    "30k": "Oct 7 2017 06:00:00 GMT+0800",
+    "10k": "Oct 7 2017 06:00:00 GMT+0800",
+    "5k":  "Oct 6 2017 14:00:00 GMT+0800"
+  }
+}

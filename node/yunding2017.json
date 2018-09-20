@@ -1,0 +1,15 @@
+{
+"test":{"displayName":"测试","type":"event","order":1,"parent":""},
+"bagCheckout":{"displayName":"领物报到","type":"event","order":2,"parent":"parent"},
+"bagCheck":{"displayName":"领参赛包","type":"event","order":3,"parent":"parent"},
+"bagDropIn":{"displayName":"存包","type":"event","order":4,"parent":"parent"},
+"bagPickUp":{"displayName":"取包","type":"event","order":5,"parent":"bagDropIn"},
+"CP2":{"displayName":"衫际内", "type":"timing", "order":1,"parent":"parent"},
+"CP3":{"displayName":"垭口", "type":"timing", "order":2,"parent":"parent"},
+"CP4":{"displayName":"汪前村", "type":"timing", "order":3,"parent":"parent"},
+"finish":{"displayName":"终点","type":"timing","order":7,"parent":"parent"},
+"withdraw":{"displayName":"退赛","type":"timing","order":999},
+"_start":{
+"37k": "Nov 26 2017 07:30:00 GMT+0800"
+}
+}

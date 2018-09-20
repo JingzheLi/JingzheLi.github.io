@@ -1,0 +1,12 @@
+[
+  {"name":"号码布","icon":"icon/split/bib.svg","func":"gotoPage","param":"bib.json"},
+  {"name":"成绩/证书","icon":"icon/split/cert.svg","func":"gotoPage","param":"cert.json","extra":"将在赛后开启。"},
+  {"name":"赛事相册","icon":"icon/split/album.svg","func":"gotoFunc","param":"/pages/service/album", "extra":"album=album/@raceid@&width=1200&title=赛事相册&wm="},
+  {"name":"赛事流程","icon":"icon/split/info.svg", "func":"gotoPage","param":"info.json"},
+  {"name":"强制装备","icon":"icon/split/gear.svg","func":"gotoFunc","param":"/pages/service/gears"},
+  {"name":"轨迹导航","icon":"icon/split/navigate.svg","func":"gotoFunc","param":"/pages/gpx/gpx"},
+  {"name":"赛道图示","icon":"icon/split/map.svg","func":"show","param":"image/@raceid@/@group@.png"},
+  {"name":"联系救助","icon":"icon/split/phone.svg","func":"makeCall","param":[{"desc":"组委会","phone":"13868805769"}]},
+  {"name":"我的状态", "icon":"icon/split/mynode.svg", "func":"gotoFunc","param":"/pages/runner/mynode"},
+  {"name":"实时成绩","icon":"icon/split/timing.svg","func":"gotoFunc","param":"/pages/organiser/timinglist"}
+]

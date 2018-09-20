@@ -1,0 +1,9 @@
+[
+  {"name":"号码布","icon":"img/bib.png","func":"gotoPage","param":"bib.json"},
+  {"name":"赛事证书","icon":"img/result.png","func":"gotoPage","param":"cert.json"},
+  {"name":"赛事流程","icon":"img/process.png", "func":"gotoPage","param":"info.json"},
+  {"name":"强制装备","icon":"img/equip.png","func":"gotoFunc","param":"/pages/service/gears"},
+  {"name":"赛道图示","icon":"img/elevation.png","func":"show","param":"image/@raceid@/@group@.jpg"},
+  {"name":"联系救助","icon":"img/phone.png","func":"makeCall","param":[{"desc":"组委会","phone":"13637073595"}]},
+  {"name":"我的状态", "icon":"img/node.svg", "func":"gotoFunc","param":"/pages/runner/mynode"}
+]

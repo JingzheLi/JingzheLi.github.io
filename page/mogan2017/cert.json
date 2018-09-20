@@ -1,0 +1,5 @@
+[
+{"pagetitle":"@name@ @bib@"},
+{"type":"image","value":"http://www.raceonhills.com/cert/@raceid@/@bib@.png?new"},
+{"type":"subtitle","value":"点击证书全屏后：iOS长按/安卓右上角可保存图片后分享至朋友圈。"}
+]

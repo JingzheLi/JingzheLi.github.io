@@ -1,0 +1,23 @@
+[
+{"pagetitle":"赛事信息"},
+{"type":"text", "value":""},
+{"type":"title","value":"领物须知"},
+{"type":"text", "value":"时间：11月23-11月24日 10:00am-21:00pm"},
+{"type":"text", "value":"地点：牧高笛户外和丰店"},
+{"type":"text", "value":"地址：宁波市江东北路395号 和丰创意广场丰庭楼21号1-4"},
+{"type":"map","longitude":121.570999,"latitude": 29.883829,"markers":[{"id":"[121.570999, 29.883829]","title":"","width":45,"height":45,"iconPath":"/image/marker.png","longitude":121.570999,"latitude": 29.883829}]},
+{"type":"text", "value":"【点击地图中心地标可开启微信地图/导航/街景】"},
+{"type":"text", "value":""},
+{"type":"text", "value":"参赛选手须凭有效身份证明原件领取参赛物品，号码布仅限本人领取。如果选手无法参赛，除号码布、计时芯片和赛事手环本以外的其他参赛物品，可由代领人持本人身份证原件和被代领人身份证复印件/电子件领取。"},
+{"type":"text", "value":""},
+{"type":"title","value":"大巴安排"},
+{"type":"text", "value":"时间：11月25日 06:00准时发车"},
+{"type":"text", "value":"地点：宁波市海曙区文化体育中心"},
+{"type":"map","longitude":121.512703,"latitude":29.876289,"markers":[{"id":"[121.512703,29.876289]","title":"海曙区文化体育中心","width":45,"height":45,"iconPath":"/image/marker.png","longitude":121.512703,"latitude":29.876289}]},
+{"type":"text", "value":"【点击地图中心地标可开启微信地图/导航/街景】"},
+{"type":"image","value":"http://www.raceonhills.com/image/@raceid@/2.jpg"},
+{"type":"image","value":"http://www.raceonhills.com/image/@raceid@/1.jpg"},
+{"type":"text", "value":""},
+{"type":"title","value":"赛事流程"},
+{"type":"image","value":"http://www.raceonhills.com/image/@raceid@/sc.png"}
+]

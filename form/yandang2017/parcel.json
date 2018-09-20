@@ -1,0 +1,6 @@
+[
+{"type":"singleLine", "disabled":true, "name":"bib", "displayName":"参赛号", "promptText":"Race bib","val":"@bib@"},
+{"type":"singleLine", "name":"name", "displayName":"收件人", "promptText":"Name","val":"@name@"},
+{"type":"singleLine","name":"mobile", "displayName":"联系电话","promptText":"Mobile","val":"@mobile@","charLimit":"15"},
+{"type":"singleLine","name":"address", "displayName":"邮寄地址【写上省份城市！】", "val":"@province@@city@", "promptText":"Mailing Address", "charLmit":"100"}
+]

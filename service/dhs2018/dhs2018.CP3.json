@@ -1,0 +1,4 @@
+[
+    {"name":"CP3扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP3&parent=parent&nodeName=CP3"},
+    {"name":"CP3列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP3&parent=CP2&nodeName=CP3"}
+]

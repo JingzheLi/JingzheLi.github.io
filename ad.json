@@ -1,0 +1,7 @@
+[
+  {"banner":"@cdn@/ad/visor.jpg","launch":"miniapp","hidden":false, "appid":"wxe646920959fd148f","url":"/pages/product/detail/detail?pid=pwzg3wB0LUFX-jZ-Lk7z6IOw030k"},
+  {"banner":"@cdn@/ad/pbbag.jpg","launch":"miniapp","hidden":false, "appid":"wxe646920959fd148f","url":"/pages/product/detail/detail?pid=pwzg3wCISAOqaH_vR5uTuBXvn_F4"},
+  {"banner":"@cdn@/ad/buffvisor.jpg","launch":"miniapp","hidden":false, "appid":"wxe646920959fd148f","url":"/pages/product/detail/detail?pid=pwzg3wElYTbpNOLZAQUXbSJWMmkI"},
+  {"banner":"@cdn@/ad/sgn2018.jpg","launch":"miniapp","hidden":true,"appid":"wxec6480f732fa43f1", "url":"/pages/rd/rd?returnUrl=https%3A%2F%2Fzuicool.com%2Fevent%2F1261"},
+  {"banner":"@cdn@/ad/tplake.jpg","launch":"miniapp","hidden":true,"appid":"wx7622ab7ebc56f587", "url":"/pages/reg/reg_race?slug=ULTRATAIPINGLAKE&from=raceon"}
+]

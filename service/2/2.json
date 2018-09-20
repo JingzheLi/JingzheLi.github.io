@@ -1,0 +1,3 @@
+ [{"name":"号码布","icon":"img/bib.png","func":"show","param":"racebib/@raceid@/@bib@.png"},
+    {"name":"轨迹导航","icon":"img/map.png","func":"gotoFunc","param":"/pages/gpx/gpx"},
+    {"name":"成绩/证书","icon":"img/result_b.png","func":"showDisabled","pagejson":"map.json"}]

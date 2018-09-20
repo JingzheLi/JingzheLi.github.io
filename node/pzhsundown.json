@@ -1,0 +1,11 @@
+{
+  "bagCheckout":{"displayName":"领参赛包","type":"event","order":1,"parent":"bagCheckout"},
+  "bagDropIn":{"displayName":"存包","type":"event","order":3,"parent":"bagCheckout"},
+  "bagPickUp":{"displayName":"取存包","type":"event","order":5,"parent":"bagDropIn"},
+  "_start":{
+    "50k":"Aug 26 2017 18:00:00 GMT+0800",
+    "25k":"Aug 26 2017 18:00:00 GMT+0800",
+    "5k":"Aug 26 2017 18:00:00 GMT+0800",
+    "5kfamily":"Aug 26 2017 18:00:00 GMT+0800",
+  }
+}

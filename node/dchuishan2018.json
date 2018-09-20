@@ -1,0 +1,61 @@
+{
+  "test": { "displayName": "测试", "type": "event", "order": 1, "parent": "" },
+  "bagCheckout": {
+    "displayName": "领物报到",
+    "type": "event",
+    "order": 2,
+    "parent": "parent"
+  },
+  "bagCheck": {
+    "displayName": "领参赛包",
+    "type": "event",
+    "order": 3,
+    "parent": "parent"
+  },
+  "bagDropIn": {
+    "displayName": "存包",
+    "type": "event",
+    "order": 4,
+    "parent": "parent"
+  },
+  "bagPickUp": {
+    "displayName": "取包",
+    "type": "event",
+    "order": 5,
+    "parent": "bagDropIn"
+  },
+  "checkin": {
+    "displayName": "检录",
+    "type": "event",
+    "order": 6,
+    "parent": "parent"
+  },
+  "CP1": {
+    "displayName": "石门路",
+    "type": "timing",
+    "order": 1,
+    "parent": "bagCheckout"
+  },
+  "CP2": {
+    "displayName": "射击场",
+    "type": "timing",
+    "order": 2,
+    "parent": "CP1"
+  },
+  "finish": {
+    "displayName": "终点",
+    "type": "timing",
+    "order": 8,
+    "parent": "parent"
+  },
+  "withdraw": {
+    "displayName": "退赛列表",
+    "type": "timing",
+    "order": 999,
+    "parent": "parent"
+  },
+  "_start": {
+    "15k": "Aug 18 2018 18:00:00 GMT+0800",
+    "8k-team": "Aug 18 2018 18:30:00 GMT+0800"
+  }
+}

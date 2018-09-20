@@ -1,0 +1,23 @@
+[
+{"pagetitle":"赛事信息"},
+{"type":"image","value":"http://www.raceonhills.com/image/@raceid@/top.jpg"},
+{"type":"title","value":"活动介绍"},
+{"type":"text", "value":"时间：2017年12月16日"},
+{"type":"text", "value":"地点：杭州虎跑路四眼井31号"},
+{"type":"map","longitude":120.13090359,"latitude": 30.21967632,"markers":[{"id":"[120.13090359, 30.21967632]","title":"乐思路运动俱乐部","width":45,"height":45,"iconPath":"/image/marker.png","longitude":120.13090359,"latitude": 30.21967632}]},
+{"type":"text", "value":"【点击地图中心地标可开启微信地图/导航/街景】"},
+{"type":"text", "value":""},
+{"type":"image","value":"http://www.raceonhills.com/image/@raceid@/gold.jpg"},
+{"type":"text", "value":"主办：Vibram Megagrip"},
+{"type":"text", "value":""},
+{"type":"title","value":"比赛流程"},
+{"type":"li", "value":"08:00-13:00  越野跑 (20km)"},
+{"type":"li", "value":"13:00-14:00 沐浴就餐"},
+{"type":"li", "value":"14:00-17:00"},
+{"type":"text", "value":""},
+{"type":"title","value":"活动礼品"},
+{"type":"image","value":"http://www.raceonhills.com/image/@raceid@/1.jpg"},
+{"type":"image","value":"http://www.raceonhills.com/image/@raceid@/2.jpg"},
+{"type":"image","value":"http://www.raceonhills.com/image/@raceid@/3.jpg"},
+{"type":"image","value":"http://www.raceonhills.com/image/@raceid@/4.jpg"}
+]

@@ -1,0 +1,4 @@
+[
+    {"name":"张记士多扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP2&parent=parent&nodeName=张记士多"},
+    {"name":"张记士多列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP2&parent=CP1&nodeName=张记士多"}
+]

@@ -1,0 +1,8 @@
+[
+  {"name":"号码布","icon":"icon/split/bib.svg","func":"gotoPage","param":"bib.json"},
+  {"name":"成绩/证书","icon":"icon/split/cert.svg","func":"showDisabled","param1":"cert.json","extra":"将在赛后开启。"},
+  {"name":"赛事流程","icon":"icon/split/info.svg", "func":"gotoPage","param":"info.json"},
+  {"name":"赛道图示","icon":"icon/split/map.svg","func":"show","param":"image/@raceid@/@group@.jpg"},
+  {"name":"联系电话","icon":"icon/split/phone.svg","func":"makeCall","param":[{"desc":"组委会","phone":"13957853942"}]},
+  {"name":"我的状态", "icon":"icon/split/mynode.svg", "func":"gotoFunc","param":"/pages/runner/mynode"}
+]

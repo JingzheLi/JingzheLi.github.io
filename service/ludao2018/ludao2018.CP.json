@@ -1,0 +1,4 @@
+[
+    {"name":"CP-植物园扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP&parent=parent&nodeName=CP-植物园"},
+    {"name":"CP-植物园列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP&parent=parent&nodeName=CP-植物园"}
+]

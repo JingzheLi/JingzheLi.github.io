@@ -1,0 +1,4 @@
+[
+    {"name":"第一日终点扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=finish-day1&parent=parent&nodeName=第一日终点"},
+    {"name":"第一日终点列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=finish-day1&parent=CP2-day1&nodeName=第一日终点"}
+]

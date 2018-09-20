@@ -1,0 +1,6 @@
+[
+  {"name":"赛事动态","icon": "icon/split/feed.svg","func": "gotoFunc","param": "/pages/feed/feed"},
+  {"name":"赛事相册","icon":"icon/split/album.svg","func":"gotoFunc","param":"/pages/service/album", "extra":"album=album/@raceid@&title=赛事相册&width=1000&wm=/watermark/align/southeast/percent/18/url/L3dhdGVybWFyay9ndW95aW1iYTIwMTgucG5n"},
+  {"name":"实时成绩","icon":"icon/split/timing.svg","func":"gotoFunc","param":"/pages/organiser/timinglist","extra":"teamnode=final"},
+  {"name":"解绑游客", "icon":"icon/split/exit.svg", "func":"showRaceOption","extra":"请点击页面上方赛事logo进行解绑"}
+]

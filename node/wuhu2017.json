@@ -1,0 +1,20 @@
+{
+"test":{"displayName":"测试","type":"event","order":1,"parent":""},
+"bagCheckout":{"displayName":"领物报到","type":"event","order":2,"parent":"parent"},
+"bagCheck":{"displayName":"领参赛包","type":"event","order":3,"parent":"parent"},
+"bagDropIn":{"displayName":"存包","type":"event","order":4,"parent":"parent"},
+"bagPickUp":{"displayName":"取包","type":"event","order":5,"parent":"bagDropIn"},
+"CP1":{"displayName":"三虎顶", "type":"timing", "order":1,"parent":"parent"},
+"CP2":{"displayName":"方山水库", "type":"timing", "order":2,"parent":"parent"},
+"CP3":{"displayName":"虎山村", "type":"timing", "order":3,"parent":"parent"},
+"CP4":{"displayName":"瓜山村", "type":"timing", "order":4,"parent":"parent"},
+"CP5":{"displayName":"南阳林场", "type":"timing", "order":5,"parent":"parent"},
+"CP6":{"displayName":"西台村山脚", "type":"timing", "order":6,"parent":"parent"},
+"finish":{"displayName":"终点","type":"timing","order":7,"parent":"parent"},
+"withdraw":{"displayName":"退赛列表","type":"timing","order":999},
+"_start":{
+"50k": "Dec 17 2017 07:17:00 GMT+0800",
+"21k": "Dec 17 2017 07:17:00 GMT+0800",
+"12k": "Dec 17 2017 07:17:00 GMT+0800"
+}
+}

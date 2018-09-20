@@ -1,0 +1,12 @@
+{
+"bagDropIn":{"displayName":"存包","type":"event","order":2},
+"bagCheckout":{"displayName":"转组","type":"event","order":3},
+"bus":{"displayName":"预订大巴", "type":"event", "order":1},
+"CP2":{"displayName":"CP2-石门下", "type":"timing", "order":2},
+"SP2":{"displayName":"SP2-钱荣路", "type":"timing", "order":3},
+"SP3":{"displayName":"SP3-白沙泉", "type":"timing", "order":4},
+"finish":{"displayName":"终点","type":"timing","order":7},
+"withdraw":{"displayName":"退赛","type":"timing","order":999},
+"_start":{"10k":"Jul 15 2017 18:00:00 GMT+0800",
+	  "30k-relay":"Jul 15 2017 16:30:00 GMT+0800"}
+}

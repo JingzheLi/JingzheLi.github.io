@@ -1,0 +1,5 @@
+[
+    {"name":"牛心山折返扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/scan","extra":"node=CP3&parent=parent&nodeName=牛心山折返"},
+    {"name":"牛心山折返列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP3&parent=CP1&nodeName=牛心山折返"},
+    {"name":"老版扫码", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP3&parent=parent&nodeName=牛心山折返"}
+]

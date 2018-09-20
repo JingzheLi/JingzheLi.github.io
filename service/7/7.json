@@ -1,0 +1,10 @@
+ [
+  {"name":"我的证书","icon":"icon/7/cert.svg","func": "show","param":"cert/@raceid@/@bib@.png"},
+    {"name":"我的成绩", "icon":"icon/7/info.svg", "func":"gotoFunc","param":"/pages/runner/mynode"},
+    {"name":"赛事视频","icon":"icon/7/video.svg", "func":"gotoPage","param":"video.json"},
+  {"name":"@name@","icon":"icon/7/bib.svg","func":"show","param":"racebib/@raceid@/@bib@.png"},
+  {"name":"赛事信息","icon":"icon/7/process.svg", "func":"gotoPage","param":"info.json"},
+  {"name":"轨迹导航","icon":"icon/7/navi.svg","func":"gotoFunc","param":"/pages/gpx/gpx"},
+  {"name":"赛道图示","icon":"icon/7/map.svg","func":"show","param":"map/@raceid@/@group@.jpg"},
+  {"name":"巴士预订","icon":"icon/7/bus.svg","func":"showDisabled","param":"/pages/form/simple","extra":"title=巴士登记&form=bus&node=bus"}
+]

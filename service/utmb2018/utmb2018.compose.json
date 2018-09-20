@@ -1,0 +1,9 @@
+[
+  {
+    "name": "赛事图文",
+    "icon": "icon/split/feed.svg",
+    "func": "gotoFunc",
+    "param": "/pages/feed/feed?compose=true"
+  },
+  {"name":"解绑", "icon":"icon/split/exit.svg", "func":"showRaceOption","extra":"请点击页面上方赛事logo进行解绑"}
+]

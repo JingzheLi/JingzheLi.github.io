@@ -1,0 +1,4 @@
+[
+    {"name":"DAY1取包扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=bagPickUp&parent=parent&nodeName=DAY1取包"},
+    {"name":"DAY1取包列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bagPickUp&parent=bagDropIn&nodeName=DAY1取包"}
+]

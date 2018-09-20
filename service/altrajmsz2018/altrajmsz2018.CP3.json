@@ -1,0 +1,4 @@
+[
+    {"name":"梅林山公园入口扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP3&parent=parent&nodeName=梅林山公园入口"},
+    {"name":"梅林山公园入口列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP3&parent=CP2&nodeName=梅林山公园入口"}
+]

@@ -1,0 +1,4 @@
+[
+    {"name":"东坞村扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP4&parent=parent&nodeName=东坞村"},
+    {"name":"东坞村列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP4&parent=bagCheckout&nodeName=东坞村"}
+]

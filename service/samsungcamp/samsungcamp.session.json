@@ -1,0 +1,21 @@
+[
+  {"name":"周#1扫码", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/scan","extra":"node=session1&parent=parent&nodeName=签到#1"},
+  {"name":"周#2扫码", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/scan","extra":"node=session2&parent=parent&nodeName=签到#2"},
+  {"name":"周#3扫码", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/scan","extra":"node=session3&parent=parent&nodeName=签到#3"},
+  {"name":"周#4扫码", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/scan","extra":"node=session4&parent=parent&nodeName=签到#4"},
+  {"name":"周#5扫码", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/scan","extra":"node=session5&parent=parent&nodeName=签到#5"},
+  {"name":"周#6扫码", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/scan","extra":"node=session6&parent=parent&nodeName=签到#6"},
+  {"name":"周#7扫码", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/scan","extra":"node=session7&parent=parent&nodeName=签到#7"},
+  {"name":"周#8扫码", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/scan","extra":"node=session8&parent=parent&nodeName=签到#8"},
+  {"name":"周#9扫码", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/scan","extra":"node=session9&parent=parent&nodeName=签到#9"},
+  {"name":"周#10扫码", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/scan","extra":"node=session10&parent=parent&nodeName=签到#10"},
+  {"name":"周#11扫码", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/scan","extra":"node=session11&parent=parent&nodeName=签到#11"},
+  {"name":"周#12扫码", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/scan","extra":"node=session12&parent=parent&nodeName=签到#12"},
+  {
+    "name": "状态表",
+    "icon": "icon/split/scan.svg",
+    "func": "gotoFunc",
+    "param": "/pages/organiser/timinglist",
+    "extra": "type=event"
+  }
+]

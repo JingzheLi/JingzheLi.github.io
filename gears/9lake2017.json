@@ -1,0 +1,13 @@
+{ "60k":{
+ "mandatory":[
+   "一个充满电的头灯"],
+"recommended":[]},
+"30k":{
+ "mandatory":[
+   "无"],
+"recommended":[]},
+"10k":{
+ "mandatory":[
+   "无"],
+ "recommended":[]}
+}

@@ -1,0 +1,25 @@
+{
+  "test": { "displayName": "测试", "type": "event", "order": 1, "parent": "" },
+  "bagCheckout": {
+    "displayName": "领物报到",
+    "type": "event",
+    "order": 2,
+    "parent": "parent"
+  },
+  "CP": {
+    "displayName": "CP-植物园",
+    "type": "timing",
+    "order": 1,
+    "parent": "parent"
+  },
+  "finish": {
+    "displayName": "终点",
+    "type": "timing",
+    "order": 7,
+    "parent": "CP"
+  },
+  "withdraw": { "displayName": "退赛列表", "type": "timing", "order": 999 },
+  "_start": {
+    "24k": "Mar 17 2018 08:00:00 GMT+0800"
+  }
+}

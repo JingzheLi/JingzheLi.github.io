@@ -1,0 +1,22 @@
+[
+{"pagetitle":"赛事信息"},
+{"type":"text", "value":""},
+{"type":"title","value":"领物须知"},
+{"type":"text", "value":"时间：5月26号下午14:00-20:00"},
+{"type":"text", "value":"地点：莫泰168酒店大堂"},
+{"type":"text", "value":"地址：浙江省诸暨市苎萝东路37号"},
+{"type":"map","longitude":120.246834,"latitude":29.702089,"markers":[{"id":"[120.246834,29.702089]","title":"莫泰168酒店","width":45,"height":45,"iconPath":"/image/marker.png","longitude":120.246834,"latitude":29.702089}]},
+{"type":"text", "value":"【点击地图中心地标可开启微信地图/导航/街景】"},
+{"type":"text", "value":"浙江省诸暨市苎萝东路37号"},
+{"type":"text", "value":""},
+{"type":"text", "value":"参赛选手须凭有效身份证明原件领取参赛物品，不可代领。"},
+{"type":"text", "value":""},
+{"type":"title","value":"比赛流程"},
+{"type":"text", "value":"接驳将在比赛日从领物酒店接选手到达起点。"},
+{"type":"text", "value":""},
+{"type":"text", "value":"起点位置：诸暨廖宅村委"},
+{"type":"map","longitude":120.435677,"latitude": 29.513840 ,"markers":[{"id":"[120.435677, 29.513840 ]","title":"起点-村委会","width":45,"height":45,"iconPath":"/image/marker.png","longitude":120.435677,"latitude": 29.513840 }]},
+{"type":"text", "value":"【点击地图中心地标可开启微信地图/导航/街景】"},
+{"type":"text", "value":""},
+{"type":"table","heading":{"H1":"30%","H2":"40%","H3":"30%"},"value":[{"H1":"5:30","H2":"市区接驳点集合","H3":"莫泰168酒店"},{"H1":"5:45","H2":"接驳车出发","H3":"莫泰168酒店"},{"H1":"6:45-7:30","H2":"存包、赛前交流、热身","H3":"廖宅"},{"H1":"7:30","H2":"选手出发","H3":"廖宅"},{"H1":"16:00","H2":"活动结束","H3":"廖宅"}]}
+]

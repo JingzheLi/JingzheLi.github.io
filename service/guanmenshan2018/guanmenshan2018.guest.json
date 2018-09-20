@@ -1,0 +1,13 @@
+[
+  {
+    "name": "现场图文",
+    "icon": "icon/split/feed.svg",
+    "func": "gotoFunc",
+    "param": "/pages/feed/feed"
+  },
+  {
+    "name": "解绑游客",
+    "icon": "icon/split/exit.svg",
+    "func": "showRaceOption"
+  }
+]

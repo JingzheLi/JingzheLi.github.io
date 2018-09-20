@@ -1,0 +1,4 @@
+[
+    {"name":"终点扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=finish&parent=parent&nodeName=终点"},
+    {"name":"终点列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=finish&parent=CP1&nodeName=终点"}
+]

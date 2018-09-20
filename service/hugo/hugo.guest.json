@@ -1,0 +1,5 @@
+ [
+    {"name":"虚谷-杭外 6公里","icon":"image/hugo/track.svg", "func":"gotoFunc","param":"/pages/gpx/gpx","extra":"track=hugo-hfls"},
+    {"name":"关于虚谷","icon":"image/hugo/hotel.svg", "func":"gotoPage","param":"info.json"}
+
+]

@@ -1,0 +1,20 @@
+{
+  "test": { "displayName": "测试", "type": "event", "order": 1, "parent": "" },
+  "bagCheckout": {
+    "displayName": "领物报到",
+    "type": "event",
+    "order": 2,
+    "parent": "parent"
+  },
+  "checkin": {
+    "displayName": "检录",
+    "type": "event",
+    "order": 6,
+    "parent": "parent"
+  },
+  "_start": {
+    "60k": "Mar 25 2018 06:00:00 GMT+0800",
+    "30k": "Mar 25 2018 06:00:00 GMT+0800",
+    "10k": "Mar 25 2018 06:30:00 GMT+0800"
+  }
+}

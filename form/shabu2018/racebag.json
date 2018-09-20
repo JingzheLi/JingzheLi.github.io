@@ -1,0 +1,6 @@
+[
+{"type":"singleLine", "disabled":true, "name":"name", "displayName":"姓名", "promptText":"Name","val":"@name@"},
+{"type":"singleLine","disabled":true, "name":"bib","displayName":"参赛号","promptText":"Bib", "val":"@bib@"},
+{"type":"singleLine","disabled":true,  "name":"group", "displayName":"组别","promptText":"Group","val":"@group@"},
+{"type":"pickChoice", "name":"location", "displayName":"领取点选择","promptText":"点击选择","val":"","listing":["沙埠太湖山庄","黄岩国际大酒店"]}
+]

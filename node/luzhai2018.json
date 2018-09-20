@@ -1,0 +1,9 @@
+{
+"bagCheckout":{"displayName":"领物报到","type":"event","order":2,"parent":"parent"},
+"_start":{
+"60k": "Oct 7 2017 06:00:00 GMT+0800",
+"30k": "Oct 7 2017 06:00:00 GMT+0800",
+"60k_team": "Oct 7 2017 06:00:00 GMT+0800",
+"30k_team":  "Oct 6 2017 14:00:00 GMT+0800"
+}
+}

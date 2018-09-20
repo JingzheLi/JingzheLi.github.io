@@ -1,0 +1,4 @@
+[
+    {"name":"去程大巴预订扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=bus&parent=parent&nodeName=去程大巴预订"},
+    {"name":"去程大巴预订列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bus&parent=&nodeName=去程大巴预订"}
+]

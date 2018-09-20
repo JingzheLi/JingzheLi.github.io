@@ -1,0 +1,5 @@
+[
+{"pagetitle":"@group@ 赛道数据"},
+{"type":"image","value":"http://www.raceonhills.com/image/@raceid@/@group@.jpg"},
+{"type":"image","value":"http://www.raceonhills.com/image/@raceid@/@group@ele.jpg"}
+]

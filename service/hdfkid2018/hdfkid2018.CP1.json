@@ -1,0 +1,4 @@
+[
+    {"name":"打卡点扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP1&parent=parent&nodeName=打卡点"},
+    {"name":"打卡点列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP1&parent=bagCheckout&nodeName=打卡点"}
+]

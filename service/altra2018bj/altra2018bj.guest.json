@@ -1,0 +1,10 @@
+[
+  {
+    "name": "赛事图文",
+    "icon": "icon/split/feed.svg",
+    "func": "gotoFunc",
+    "param": "/pages/feed/feed"
+  },
+  {"name":"实时成绩","icon":"icon/split/timing.svg","func":"gotoFunc","param":"/pages/organiser/timinglist"},
+  {"name":"解绑游客", "icon":"icon/split/exit.svg", "func":"showRaceOption","extra":"请点击页面上方赛事logo进行解绑"}
+]

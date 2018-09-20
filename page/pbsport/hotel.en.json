@@ -1,0 +1,23 @@
+[
+{"pagetitle":"Hotel"},
+{"type":"title","value":"Wuxi Yinxiu Garden Hotel"},
+{"type":"text", "value":"Organizing Committee officical hotel / Race start and finish are in the hotel on 19th August."},
+{"type":"text", "value":""},
+{"type":"text", "value":"If you have already paid for the hotel with your registration, please check-in with your name and phone number."},
+{"type":"text", "value":""},
+{"type":"text", "value":"No.200-1, Wang Lane, Liangxi Road, Binhu District, Wuxi (near the Yinxiu Road)"},
+{"type":"map","longitude":120.255257,"latitude":31.562250,"markers":[{"id":"[120.255257,31.562250]","title":"Wuxi Yinxiu Garden Hotel","width":45,"height":45,"iconPath":"/image/marker.png","longitude":120.255257,"latitude":31.562250}]},
+{"type":"text", "value":"[Tap on the marker to open navigation]"},
+{"type":"text", "value":""},
+{"type":"text", "value":"Extra night: 238 Yuan /rm/night for standard or double room with double breakfast."},
+{"type":"text", "value":""},
+{"type":"title","value":"Facilities"},
+{"type":"li", "value":"Free Parking"},
+{"type":"li", "value":"Free Wi-Fi"},
+{"type":"li", "value":"Luggage Storage,"},
+{"type":"li", "value":"24-Hour Hot Water"},
+{"type":"li", "value":"Complimentary Bottled Water"},
+{"type":"li", "value":"Complimentary Toiletries"},
+{"type":"text", "value":""},
+{"type":"image","value":"http://www.raceonhills.com/image/pbsport/hotel.jpg"}
+]

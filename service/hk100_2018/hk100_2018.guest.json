@@ -1,0 +1,4 @@
+[
+  {"name":"参赛号查询", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=wave&parent=&nodeName=参赛号为姓名右侧数字"},
+  {"name":"解绑游客", "icon":"img/equip.png", "func":"showRaceOption"}
+]

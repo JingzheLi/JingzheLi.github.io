@@ -1,0 +1,4 @@
+[
+    {"name":"第一日CP1扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP1-day1&parent=parent&nodeName=第一日CP1"},
+    {"name":"第一日CP1列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP1-day1&parent=parent&nodeName=第一日CP1"}
+]

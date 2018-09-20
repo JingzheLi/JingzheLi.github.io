@@ -1,0 +1,4 @@
+[
+    {"name":"龙洞森林公园扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=LD22-CP3&parent=parent&nodeName=龙洞森林公园"},
+    {"name":"龙洞森林公园列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=LD22-CP3&parent=LD22-CP2&nodeName=龙洞森林公园"}
+]

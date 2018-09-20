@@ -1,0 +1,13 @@
+[
+  {"name":"选手信息","icon":"img/process.png", "func":"gotoFunc", "param":"/pages/organiser/racerlist","extra":"readonly=false"},
+  {"name":"领包列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bagCheckout&parent=parent&nodeName=领取赛包"},
+  {"name":"存包列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bagDropIn&parent=bagCheckout&nodeName=起点存包列表"},
+  {"name":"100换装列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bag100change&parent=bag100unload&nodeName=100换装列表"},
+  {"name":"100车列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bag100unload&parent=bag100load&nodeName=100装车列表"},
+  {"name":"62车列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bag62unload&parent=bag100load&nodeName=62装车列表"},
+  {"name":"62领包列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bag62pick&parent=bag62unload&nodeName=62领包列表"},
+  {"name":"起终点领包列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bagStartPick&parent=bagDropIn&nodeName=起终点领包列表"},
+  {"name":"100换62列表", "icon":"img/bib.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=groupSwitch&parent=bagCheckout&nodeName=100换62列表"},
+  {"name":"Salomon签到", "icon":"img/submit.png", "func":"gotoFunc","param":"/pages/service/signuplist","extra":""},
+ {"name":"发包列表", "icon":"img/submit.png", "func":"gotoFunc","param":"/pages/service/bagList","extra":"raceid=3"}
+]

@@ -1,0 +1,4 @@
+[
+    {"name":"DAY1终点扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=finish&parent=parent&nodeName=DAY1终点"},
+    {"name":"DAY1终点列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=finish&parent=bagCheckout&nodeName=DAY1终点"}
+]

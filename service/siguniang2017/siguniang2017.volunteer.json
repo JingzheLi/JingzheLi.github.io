@@ -1,0 +1,4 @@
+[
+  {"name":"赛事信息","icon":"img/process.png", "func":"gotoPage","param":"info.json"},
+  {"name":"证书下载","icon":"img/result.png","func":"gotoPage","param":"volunteer.json","extra":"还未上线"}
+]

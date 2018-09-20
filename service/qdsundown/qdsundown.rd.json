@@ -1,0 +1,8 @@
+[
+   {"name":"赛事名册","icon":"img/phone.png","func":"gotoFunc","param":"/pages/organiser/racerlist","extra":"readonly=false"},
+   {"name":"巴士预定", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bus&parent=bus&nodeName=去程大巴预定"},
+{"name":"领包签到列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bagCheckout&parent=&nodeName=领包所有签到"},
+{"name":"领包5k列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bagCheckout&parent=&filter={\"group\":\"5k\"}&nodeName=领包5k签到"},
+{"name":"领包21k列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bagCheckout&parent=&filter={\"group\":\"21k\"}&nodeName=领包21k签到"},
+{"name":"领包42k列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bagCheckout&parent=&filter={\"group\":\"42k\"}&nodeName=领包42k签到"}
+]

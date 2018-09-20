@@ -1,0 +1,4 @@
+[
+    {"name":"骆驼安扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP2&parent=parent&nodeName=骆驼安"},
+    {"name":"骆驼安列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP2&parent=CP1&nodeName=骆驼安"}
+]

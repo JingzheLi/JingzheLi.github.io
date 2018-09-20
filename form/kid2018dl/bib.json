@@ -1,0 +1,26 @@
+[
+  {
+    "type": "singleLine",
+    "disabled": true,
+    "name": "name",
+    "displayName": "姓名",
+    "promptText": "Name",
+    "val": ""
+  },
+  {
+    "type": "singleLine",
+    "disabled": true,
+    "name": "bib",
+    "displayName": "参赛号",
+    "promptText": "Bib",
+    "val": ""
+  },
+  {
+    "type": "pickChoice",
+    "name": "stamp",
+    "displayName": "邮票图案",
+    "promptText": "",
+    "val": "",
+    "listing": ["小熊猫", "黑熊", "小麂", "豪猪", "黄鼬","火尾太阳鸟","白腹锦鸡","游隼","红嘴相思鸟","棕颈钩嘴鹛"]
+  }
+]

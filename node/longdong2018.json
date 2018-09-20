@@ -1,0 +1,134 @@
+{
+  "test": { "displayName": "测试", "type": "event", "order": 1, "parent": "" },
+  "bagCheckout": {
+    "displayName": "领物报到",
+    "type": "event",
+    "order": 2,
+    "parent": "parent"
+  },
+  "bagCheck": {
+    "displayName": "领参赛包",
+    "type": "event",
+    "order": 3,
+    "parent": "parent"
+  },
+  "bagDropIn": {
+    "displayName": "DAY1存包",
+    "type": "event",
+    "order": 4,
+    "parent": "parent"
+  },
+  "bagPickUp": {
+    "displayName": "DAY1取包",
+    "type": "event",
+    "order": 5,
+    "parent": "bagDropIn"
+  },
+  "bagDropIn2": {
+    "displayName": "DAY2存包",
+    "type": "event",
+    "order": 4,
+    "parent": "parent"
+  },
+  "bagPickUp2": {
+    "displayName": "DAY2取包",
+    "type": "event",
+    "order": 5,
+    "parent": "bagDropIn"
+  },
+  "penalty": {
+    "displayName": "罚时",
+    "type": "event",
+    "order": 6,
+    "parent": ""
+  },
+  "CP1": {
+    "displayName": "大源东路",
+    "type": "timing",
+    "order": 1,
+    "parent": "bagCheckout"
+  },
+  "CP2": {
+    "displayName": "张记士多",
+    "type": "timing",
+    "order": 2,
+    "parent": "CP1"
+  },
+  "CP3": {
+    "displayName": "山塘背",
+    "type": "timing",
+    "order": 3,
+    "parent": "CP2"
+  },
+  "CP4": {
+    "displayName": "万竹山庄",
+    "type": "timing",
+    "order": 4,
+    "parent": "CP3"
+  },
+  "CP5": {
+    "displayName": "大源东路折返",
+    "type": "timing",
+    "order": 5,
+    "parent": "CP4"
+  },
+  "LD22-CP1": {
+    "displayName": "雷达站",
+    "type": "timing",
+    "order": 7,
+    "parent": "bagCheckout"
+  },
+  "LD22-CP2": {
+    "displayName": "雷达站折返",
+    "type": "timing",
+    "order": 8,
+    "parent": "LD22-CP1"
+  },
+  "LD22-CP3": {
+    "displayName": "龙洞森林公园",
+    "type": "timing",
+    "order": 9,
+    "parent": "LD22-CP2"
+  },
+  "finish1": {
+    "displayName": "DAY1终点",
+    "type": "timing",
+    "order": 6,
+    "parent": "bagCheckout"
+  },
+  "finish": {
+    "displayName": "DAY2终点",
+    "type": "timing",
+    "order": 10,
+    "parent": "bagCheckout"
+  },
+  "result":{
+    "displayName": "总成绩",
+    "type": "timing",
+    "order": 800,
+    "parent": ""
+  },
+  "withdraw": { "displayName": "退赛列表", "type": "timing", "order": 999 },
+  "_start": {
+    "BTB": {
+      "DAY1": {
+        "name": "第一天LD50",
+        "_start": "Jun 2 2018 07:00:00 GMT+0800",
+        "cplist": ["CP1", "CP2", "CP3", "CP4", "CP5","withdraw", "finish1"]
+      },
+      "DAY2": {
+        "name": "第二天LD22",
+        "_start": "Jun 3 2018 09:00:00 GMT+0800",
+        "cplist": ["LD22-CP1", "LD22-CP2", "LD22-CP3", "finish"]
+      },
+      "TOTAL":{
+        "name":"总成绩",
+        "_start": "Jun 3 2018 09:00:00 GMT+0800",
+        "cplist": ["result"]
+      }
+    },
+    "LD50": "Jun 2 2018 07:00:00 GMT+0800",
+    "LD22-team": "Jun 3 2018 09:00:00 GMT+0800",
+    "LD7": "Jun 3 2018 09:30:00 GMT+0800"
+  }
+}

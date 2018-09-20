@@ -1,0 +1,5 @@
+[
+{"pagetitle":"@name@ @bib@"},
+{"type":"image","value":"http://www.raceonhills.com/racebib/@raceid@/@bib@.png"},
+{"type":"text","value":"活动编号：@bib@"}
+]

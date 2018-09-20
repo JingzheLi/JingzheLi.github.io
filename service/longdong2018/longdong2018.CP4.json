@@ -1,0 +1,4 @@
+[
+    {"name":"万竹山庄扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP4&parent=parent&nodeName=万竹山庄"},
+    {"name":"万竹山庄列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP4&parent=CP3&nodeName=万竹山庄"}
+]

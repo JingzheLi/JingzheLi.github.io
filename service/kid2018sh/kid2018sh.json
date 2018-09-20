@@ -1,0 +1,10 @@
+[
+  {"name":"号码布","icon":"icon/split/bib.svg","func":"gotoPage","param":"bib.@group@.json"},
+  {"name":"成绩证书","icon":"icon/split/cert.svg","func":"gotoPage","param":"cert.json"},
+  {"name":"个人照片","icon":"icon/split/album.svg","func":"gotoFunc","param":"/pages/runner/yundongPhoto"},
+  {"name":"赛事流程","icon":"icon/split/info.svg", "func":"gotoPage","param":"info.json"},
+  {"name":"轨迹导航","icon":"icon/split/navigate.svg","func":"gotoFunc","param":"/pages/gpx/gpx"},
+  {"name":"赛道图示","icon":"icon/split/map.svg","func":"show","param":"image/@raceid@/@group@.jpg"},
+  {"name":"我的状态", "icon":"icon/split/mynode.svg", "func":"gotoFunc","param":"/pages/runner/mynode"},
+  {"name":"实时成绩","icon":"icon/split/timing.svg","func":"gotoFunc","param":"/pages/organiser/timinglist"}
+]

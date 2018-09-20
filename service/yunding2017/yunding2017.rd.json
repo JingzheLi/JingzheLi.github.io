@@ -1,0 +1,6 @@
+[
+  {"name":"赛事名册","icon":"img/phone.png","func":"gotoFunc","param":"/pages/organiser/racerlist","extra":"readonly=false"},
+  {"name":"领物","icon":"img/node.svg","func":"gotoFunc","param":"/pages/organiser/idverify"},
+  {"name":"选手状态","icon":"img/timing.svg","func":"gotoFunc","param":"/pages/organiser/timinglist","extra":"type=event"},
+  {"name":"打卡计时","icon":"img/timing.svg","func":"gotoFunc","param":"/pages/organiser/timinglist"}
+]

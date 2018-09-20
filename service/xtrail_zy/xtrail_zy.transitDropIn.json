@@ -1,0 +1,4 @@
+[
+    {"name":"存转运包扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=transitDropIn&parent=parent&nodeName=存转运包"},
+    {"name":"存转运包列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=transitDropIn&parent=bagCheckout&nodeName=存转运包"}
+]

@@ -1,0 +1,5 @@
+[
+  {"name":"审核成绩","icon":"icon/split/checkin.svg","func":"gotoFunc","param":"/pages/fkt/audit","extra":"key=snapshot"},
+  {"name":"查看排名","icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/fkt/resultlist","extra":""},
+  {"name":"赛事名册","icon":"icon/split/mynode.svg","func":"gotoFunc","param":"/pages/organiser/racerlist","extra":"readonly=false"}
+]

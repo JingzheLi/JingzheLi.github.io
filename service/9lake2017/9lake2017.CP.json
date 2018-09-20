@@ -1,0 +1,4 @@
+[
+    {"name":"金沙村扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP&parent=parent&nodeName=金沙村"},
+    {"name":"金沙村列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP&parent=parent&nodeName=金沙村"}
+]

@@ -1,0 +1,5 @@
+{
+"100miles":{"rank":"990", "id":"100miles","type":"fkt","group":["100milesloop"],"route":["100milesloop"], "cover_image":"@cdn@/cover/100miles.svg","title":"100MILES 精酿FKT","date":"2017","bgColor":"#f6d13c", "bgImg":"@web@image/100miles/bg.jpg","theme":"text-shadow: 1px 3px 3px #000; color:white;font-weight:800;"},
+"utmb":{"rank":"986","itra":true, "id":"utmb","type":"trail","group":["UTMB","CCC","OCC","TDS","PTL"],"cover_image":"@cdn@/cover/utmb.svg","title":"Ultra-Trail du Mont-Blanc® ","date":"2017-08","guest":true,"prompt":"查看相册请点游客入口"},
+"2":{"rank":"1007","id":"2","cover_image":"@cdn@/cover/2.png","title":"征途赛事计时系统","date":"2017-03-18","hidden":true}
+}

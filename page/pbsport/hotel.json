@@ -1,0 +1,22 @@
+[
+{"pagetitle":"酒店信息"},
+{"type":"title","value":"无锡隐秀花园酒店"},
+{"type":"text", "value":"组委会本次合作酒店，8-19日比赛起终点都在酒店内"},
+{"type":"text", "value":"如报名时候选择酒店套餐的选手，8月19号当天凭预订时的姓名和手机号码至前台办理入住。"},
+{"type":"text", "value":""},
+{"type":"text", "value":"地址：江苏省无锡市滨湖区梁溪路王巷200号-1，近隐秀路"},
+{"type":"map","longitude":120.255257,"latitude":31.562250,"markers":[{"id":"[120.255257,31.562250]","title":"无锡隐秀花园酒店","width":45,"height":45,"iconPath":"/image/marker.png","longitude":120.255257,"latitude":31.562250}]},
+{"type":"text", "value":"【点击地图中标点可打开导航/街景】"},
+{"type":"text", "value":""},
+{"type":"text", "value":"续住：238元/间/天 标准房或大床房含双早"},
+{"type":"text", "value":""},
+{"type":"title","value":"酒店设施"},
+{"type":"li", "value":"免费停车场"},
+{"type":"li", "value":"免费无线网络"},
+{"type":"li", "value":"行李寄存"},
+{"type":"li", "value":"24小时热水"},
+{"type":"li", "value":"免费瓶装水"},
+{"type":"li", "value":"免费洗漱用品"},
+{"type":"text", "value":""},
+{"type":"image","value":"http://www.raceonhills.com/image/pbsport/hotel.jpg"}
+]

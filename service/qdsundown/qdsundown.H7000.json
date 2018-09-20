@@ -1,0 +1,4 @@
+[
+    {"name":"H5001-H7000领包", "icon":"img/mynode.svg", "func":"gotoFunc","param":"/pages/organiser/idverify","extra":"filter={\"booth\":\"H7000\"}"},
+    {"name":"领包签到列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bagCheckout&parent=&nodeName=领包签到"}
+]

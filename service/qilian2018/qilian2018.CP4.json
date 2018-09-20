@@ -1,0 +1,5 @@
+[
+    {"name":"车口龙扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/scan","extra":"node=CP4&parent=parent&nodeName=车口龙"},
+    {"name":"车口龙列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP4&parent=CP2&nodeName=车口龙"},
+    {"name":"老版扫码", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP4&parent=parent&nodeName=车口龙"}
+]

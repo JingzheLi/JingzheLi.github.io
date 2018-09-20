@@ -1,0 +1,4 @@
+[
+    {"name":"定位设备领取扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=gps&parent=gear&current=true&nodeName=定位设备领取"},
+    {"name":"定位设备领取列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=gps&parent=gear&nodeName=定位设备领取"}
+]

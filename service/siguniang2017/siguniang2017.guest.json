@@ -1,0 +1,5 @@
+[
+  {"name":"越野在现场","icon":"img/video.svg", "func":"gotoPage","param":"live.json"},
+  {"name":"赛事信息","icon":"img/process.png", "func":"gotoPage","param":"info.json"},
+  {"name":"解绑游客", "icon":"img/process.png", "func":"showRaceOption","extra":"请点击页面上方赛事logo进行解绑"}
+]

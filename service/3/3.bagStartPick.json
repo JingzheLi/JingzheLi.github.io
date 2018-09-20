@@ -1,0 +1,4 @@
+[
+    {"name":"起点领包扫码", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=bagStartPick&parent=bagDropIn&nodeName=起点领包"},
+    {"name":"起点领包列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bagStartPick&parent=bagDropIn&nodeName=起点领包列表"}
+]

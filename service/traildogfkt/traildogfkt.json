@@ -1,0 +1,8 @@
+ [
+    {"name":"号码: @bib@","icon":"img/bib.png","func":"show","param":"racebib/@raceid@/@bib@.jpg"},
+    {"name":"标毅: 25km","icon":"img/map.png", "func":"gotoFunc","param":"/pages/gpx/gpx","extra":"track=hz"},
+    {"name":"提交成绩","icon":"img/submit.png", "func":"gotoFunc","param":"/pages/fkt/submit","extra":"form=result&title=提交FKT成绩"},
+    {"name":"查看排名","icon":"img/process.png", "func":"gotoFunc","param":"/pages/fkt/resultlist","extra":""},
+    {"name":"我的成绩","icon":"img/timing.svg", "func":"gotoFunc","param":"/pages/fkt/myresult","extra":""},
+    {"name":"领酒记录", "icon":"img/node.svg", "func":"gotoFunc","param":"/pages/runner/mynode"}
+]

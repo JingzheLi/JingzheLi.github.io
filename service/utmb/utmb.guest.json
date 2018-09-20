@@ -1,0 +1,5 @@
+[
+  {"name":"赛事照片","icon":"img/photo.png","func":"gotoFunc","param":"/pages/service/album", "extra":"album=album/@raceid@&width=1800&title=柴古摄影团"},
+  {"name":"商业使用说明","icon":"img/process.png","func":"showDisabled","param":"/pages/service/album", "extra":"未经允许不可用于商业用途。\n联系 bd@wansai.co 获取版权授权"},
+  {"name":"解绑游客", "icon":"img/equip.png", "func":"showRaceOption","extra":"请点击页面上方赛事logo进行解绑"}
+]

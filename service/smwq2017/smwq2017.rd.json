@@ -1,0 +1,7 @@
+[
+  {"name":"赛事名册","icon":"img/phone.png","func":"gotoFunc","param":"/pages/organiser/racerlist","extra":"readonly=false"},
+  {"name":"领物","icon":"img/node.svg","func":"gotoFunc","param":"/pages/organiser/idverify"},
+  {"name":"选手状态","icon":"img/timing.svg","func":"gotoFunc","param":"/pages/organiser/timinglist","extra":"type=event"},
+  {"name":"实时成绩","icon":"img/timing.svg","func":"gotoFunc","param":"/pages/organiser/timinglist"},
+  {"name":"领物列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bagCheckout&parent=parent&nodeName=领取赛包"}
+]

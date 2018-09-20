@@ -1,0 +1,5 @@
+[
+    {"name":"廖宅扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/scan","extra":"node=CP2&parent=parent&nodeName=廖宅"},
+    {"name":"廖宅列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP2&parent=CP1&nodeName=廖宅"},
+    {"name":"老版扫码", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP2&parent=parent&nodeName=廖宅"}
+]

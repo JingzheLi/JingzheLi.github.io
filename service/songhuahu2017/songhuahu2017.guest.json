@@ -1,0 +1,3 @@
+[
+  {"name":"赛事成绩","icon":"img/timing.svg","func":"gotoFunc","param":"/pages/organiser/timinglist"}
+]

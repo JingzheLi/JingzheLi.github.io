@@ -1,0 +1,19 @@
+{
+"test":{"displayName":"测试","type":"event","order":1,"parent":""},
+"bagCheckout":{"displayName":"领物报到","type":"event","order":2,"parent":"parent"},
+"bagCheck":{"displayName":"领参赛包","type":"event","order":3,"parent":"parent"},
+"bagDropIn":{"displayName":"存包","type":"event","order":4,"parent":"parent"},
+"bagPickUp":{"displayName":"取包","type":"event","order":5,"parent":"bagDropIn"},
+"CP1":{"displayName":"CP1小水库处", "type":"timing", "order":1,"parent":"parent"},
+"CP2":{"displayName":"CP2低坪村", "type":"timing", "order":2,"parent":"parent"},
+"CP3":{"displayName":"CP3杖锡村口", "type":"timing", "order":3,"parent":"parent"},
+"CP4":{"displayName":"CP4李家坑", "type":"timing", "order":4,"parent":"parent"},
+"CP5":{"displayName":"CP5小水库处", "type":"timing", "order":4,"parent":"parent"},
+"finish17":{"displayName":"17公里终点", "type":"timing", "order":4,"parent":"parent"},
+"finish":{"displayName":"终点","type":"timing","order":7,"parent":"parent"},
+"withdraw":{"displayName":"退赛列表","type":"timing","order":999},
+"_start":{
+"30k": "Nov 25 2017 08:30:00 GMT+0800",
+"17k": "Nov 25 2017 08:30:00 GMT+0800"
+}
+}

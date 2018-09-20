@@ -1,0 +1,4 @@
+[
+    {"name":"退赛扫码录入", "icon":"icon/7/bib.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=withdraw&parent=parent&nodeName=退赛录入"},
+    {"name":"退赛列表", "icon":"icon/7/info.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=withdraw&parent=parent&nodeName=退赛列表"}
+]

@@ -1,0 +1,13 @@
+{
+"test":{"displayName":"测试","type":"event","order":1,"parent":""},
+"bagCheckout":{"displayName":"领物报到","type":"event","order":2,"parent":"parent"},
+"bagCheck":{"displayName":"领参赛包","type":"event","order":3,"parent":"parent"},
+"bagDropIn":{"displayName":"存包","type":"event","order":4,"parent":"parent"},
+"bagPickUp":{"displayName":"取包","type":"event","order":5,"parent":"bagDropIn"},
+"finish":{"displayName":"终点","type":"timing","order":7,"parent":"bagCheckout"},
+"withdraw":{"displayName":"退赛列表","type":"timing","order":999},
+"_start":{
+"10k": "Apr 30 2018 09:15:00 GMT+0800",
+"5k": "Apr 30 2018 09:15:00 GMT+0800"
+}
+}

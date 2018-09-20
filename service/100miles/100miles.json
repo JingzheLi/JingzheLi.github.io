@@ -1,0 +1,8 @@
+ [
+    {"name":"线路","icon":"img/map.png", "func":"gotoFunc","param":"/pages/gpx/gpx","extra":"track=100milesloop"},
+    {"name":"提交成绩","icon":"img/submit.png", "func":"gotoFunc","param":"/pages/fkt/submit","extra":"form=result&title=提交成绩"},
+    {"name":"我的成绩","icon":"img/node.svg", "func":"gotoFunc","param":"/pages/fkt/myresult","extra":""},
+    {"name":"查看排名","icon":"img/timing.svg", "func":"gotoFunc","param":"/pages/fkt/resultlist","extra":""},
+     {"name":"关于100miles","icon":"img/process.png", "func":"gotoPage","param":"info.json"}
+
+]

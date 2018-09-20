@@ -1,0 +1,3 @@
+[
+   {"name":"赛事花名册","icon":"img/phone.png","func":"gotoFunc","param":"/pages/organiser/racerlist","extra":"readonly=false"}
+]

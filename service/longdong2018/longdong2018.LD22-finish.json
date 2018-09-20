@@ -1,0 +1,4 @@
+[
+    {"name":"DAY2终点扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=LD22-finish&parent=parent&nodeName=DAY2终点"},
+    {"name":"DAY2终点列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=LD22-finish&parent=bagCheckout&nodeName=DAY2终点"}
+]

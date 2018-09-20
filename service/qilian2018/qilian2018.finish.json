@@ -1,0 +1,5 @@
+[
+    {"name":"终点冰沟河扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/scan","extra":"node=finish&parent=parent&nodeName=终点冰沟河"},
+    {"name":"终点冰沟河列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=finish&parent=CP9&nodeName=终点冰沟河"},
+    {"name":"老版扫码", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=finish&parent=parent&nodeName=终点冰沟河"}
+]

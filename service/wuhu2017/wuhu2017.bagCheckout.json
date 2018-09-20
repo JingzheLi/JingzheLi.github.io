@@ -1,0 +1,5 @@
+[
+    {"name":"领物","icon":"img/node.svg","func":"gotoFunc","param":"/pages/organiser/idverify"},
+    {"name":"领物报到列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bagCheckout&parent=parent&nodeName=领物报到"},
+    {"name":"赛事名册","icon":"img/phone.png","func":"gotoFunc","param":"/pages/organiser/racerlist","extra":"readonly=true"}
+]

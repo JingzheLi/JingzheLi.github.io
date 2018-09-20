@@ -1,0 +1,146 @@
+{
+  "test": { "displayName": "测试", "type": "event", "order": 1, "parent": "" },
+  "bagCheckout": {
+    "displayName": "签到",
+    "type": "event",
+    "order": 2,
+    "parent": "parent"
+  },
+  "bagCheck": {
+    "displayName": "领赛包",
+    "type": "event",
+    "order": 3,
+    "parent": "parent"
+  },
+  "checkin-day1": {
+    "displayName": "第一天检录",
+    "type": "event",
+    "order": 6,
+    "parent": "parent"
+  },
+  "checkin-day2": {
+    "displayName": "第一天检录",
+    "type": "event",
+    "order": 6,
+    "parent": "parent"
+  },
+  "CP1-day1": {
+    "displayName": "第一日CP1",
+    "type": "timing",
+    "order": 1,
+    "parent": "parent"
+  },
+  "CP2-day1": {
+    "displayName": "第一日CP2",
+    "type": "timing",
+    "order": 2,
+    "parent": "CP1-day1"
+  },
+  "CP3-day1": {
+    "displayName": "第一日CP3",
+    "type": "timing",
+    "order": 3,
+    "parent": "CP2-day1"
+  },
+  "finish-day1": {
+    "displayName": "第一日终点",
+    "type": "timing",
+    "order": 4,
+    "parent": "CP2-day1"
+  },
+  "CP1-day2": {
+    "displayName": "第二日CP1",
+    "type": "timing",
+    "order": 5,
+    "parent": "parent"
+  },
+  "CP2-day2": {
+    "displayName": "第二日CP2",
+    "type": "timing",
+    "order": 6,
+    "parent": "CP1-day2"
+  },
+  "CP3-day3": {
+    "displayName": "第二日CP3",
+    "type": "timing",
+    "order": 7,
+    "parent": "CP2-day2"
+  },
+  "finish": {
+    "displayName": "第二日终点",
+    "type": "timing",
+    "order": 8,
+    "parent": "CP3-day2"
+  },
+  "final": {
+    "displayName": "总成绩",
+    "type": "timing",
+    "order": 9,
+    "parent": "parent"
+  },
+  "withdraw": {
+    "displayName": "第一日退赛列表",
+    "type": "timing",
+    "order": 999,
+    "parent": "parent"
+  },
+  "withdraw-day2": {
+    "displayName": "第二日退赛列表",
+    "type": "timing",
+    "order": 999,
+    "parent": "parent"
+  },
+  "_start": {
+    "团队": {
+      "DAY1": {
+        "name": "第一日",
+        "_start": "Jun 16 2018 08:40:00 GMT+0800",
+        "cplist": ["finish-day1"]
+      },
+      "DAY2": {
+        "name": "第二日",
+        "_start": "Jun 17 2018 07:16:00 GMT+0800",
+        "cplist": [ "finish"]
+      },
+      "TOTAL":{
+        "name":"总成绩",
+        "_start": "Jun 17 2018 07:00:00 GMT+0800",
+        "cplist": ["final"]
+      }
+    },
+    "A-team": {
+      "DAY1": {
+        "name": "第一日",
+        "_start": "Jun 16 2018 08:40:00 GMT+0800",
+        "cplist": ["CP1-day1", "CP2-day1","CP3-day1", "withdraw","finish-day1"]
+      },
+      "DAY2": {
+        "name": "第二日",
+        "_start": "Jun 17 2018 07:16:00 GMT+0800",
+        "cplist": ["CP1-day2", "CP2-day2","CP3-day3","withdraw-day2", "finish"]
+      },
+      "TOTAL":{
+        "name":"总成绩",
+        "_start": "Jun 17 2018 07:00:00 GMT+0800",
+        "cplist": ["final"]
+      }
+    },
+    "B-team": {
+      "DAY1": {
+        "name": "第一日",
+        "_start": "Jun 16 2018 08:40:00 GMT+0800",
+        "cplist": ["CP1-day1", "CP2-day1","CP3-day1",  "withdraw", "finish-day1"]
+      },
+      "DAY2": {
+        "name": "第二日",
+        "_start": "Jun 17 2018 07:16:00 GMT+0800",
+        "cplist": ["CP1-day2", "CP2-day2","CP3-day3","withdraw-day2", "finish"]
+      },
+      "TOTAL":{
+        "name":"总成绩",
+        "_start": "Jun 17 2018 07:00:00 GMT+0800",
+        "cplist": ["final"]
+      }
+    }
+  }
+}

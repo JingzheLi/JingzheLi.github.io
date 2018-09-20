@@ -1,0 +1,5 @@
+[
+  {"name":"赛事相册","icon":"icon/split/album.svg","func":"gotoFunc","param":"/pages/service/album", "extra":"album=album/@raceid@&title=赛事相册&wm="},
+  {"name":"志愿者证书", "icon":"icon/split/cert.svg", "func":"gotoPage", "param":"cert.json"},
+  {"name":"轨迹导航","icon":"icon/split/navigate.svg","func":"gotoFunc","param":"/pages/gpx/gpx","extra":"track=50knav"}
+]

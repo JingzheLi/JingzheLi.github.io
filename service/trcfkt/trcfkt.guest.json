@@ -1,0 +1,7 @@
+ [
+    {"name":"杭州: 20km","icon":"icon/trcfkt/nav.png", "func":"gotoFunc","param":"/pages/gpx/gpx","extra":"track=hangzhou"},
+    {"name":"无锡: 17km","icon":"icon/trcfkt/nav.png", "func":"gotoFunc","param":"/pages/gpx/gpx","extra":"track=wuxi"},
+    {"name":"宁波: 24km","icon":"icon/trcfkt/nav.svg", "func":"gotoFunc","param":"/pages/gpx/gpx","extra":"track=ningbo"},
+    {"name":"苏州: 23km","icon":"icon/trcfkt/nav.svg", "func":"gotoFunc","param":"/pages/gpx/gpx","extra":"track=suzhou"},
+    {"name":"如何解绑游客身份","icon":"icon/trcfkt/exit.svg", "func":"gotoPage","param":"deboundle.json"}
+]

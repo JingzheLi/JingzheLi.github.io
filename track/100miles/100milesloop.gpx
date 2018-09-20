@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx version="1.1" creator="Movescount - http://www.movescount.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.cluetrust.com/XML/GPXDATA/1/0 http://www.cluetrust.com/Schemas/gpxdata10.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd" xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1">
+   <rte>
+      <name>shaoxinglu</name>
+      <rtept lat="31.2110667472164" lon="121.458956037939" />
+      <rtept lat="31.2108093478621" lon="121.458336240577" />
+      <rtept lat="31.2107348024896" lon="121.458098552682" />
+      <rtept lat="31.2104088590278" lon="121.457234071861" />
+      <rtept lat="31.210396809085" lon="121.457211006312" />
+      <rtept lat="31.2121164641289" lon="121.456996239291" />
+      <rtept lat="31.2121065075878" lon="121.45701228635" />
+      <rtept lat="31.2124284112711" lon="121.457861717148" />
+      <rtept lat="31.2128628844961" lon="121.458955883087" />
+      <rtept lat="31.2129928039129" lon="121.459353044643" />
+      <rtept lat="31.2137432529073" lon="121.461273724635" />
+      <rtept lat="31.2137702222367" lon="121.461266701095" />
+      <rtept lat="31.2128552804154" lon="121.461511520373" />
+      <rtept lat="31.2123108521071" lon="121.461633938207" />
+      <rtept lat="31.2122878835058" lon="121.461641964526" />
+      <rtept lat="31.2122454763911" lon="121.461473457458" />
+      <rtept lat="31.2120823931392" lon="121.461014083772" />
+      <rtept lat="31.2110737611573" lon="121.458963058018" />
+   </rte>
+   <wpt lat="31.2110737611573" lon="121.458963058018">
+      <name>WP1</name>
+   </wpt>
+</gpx>

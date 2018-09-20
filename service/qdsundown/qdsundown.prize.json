@@ -1,0 +1,4 @@
+[
+    {"name":"领完赛包扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=prize&parent=parent&nodeName=领完赛包"},
+    {"name":"领完赛包列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=prize&parent=bagCheckout&nodeName=领完赛包"}
+]

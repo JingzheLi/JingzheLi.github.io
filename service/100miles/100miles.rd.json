@@ -1,0 +1,4 @@
+[
+   {"name":"审核成绩","icon":"img/phone.png","func":"gotoFunc","param":"/pages/fkt/audit"},
+  {"name":"赛事名册","icon":"img/phone.png","func":"gotoFunc","param":"/pages/organiser/racerlist","extra":"readonly=false"}
+]

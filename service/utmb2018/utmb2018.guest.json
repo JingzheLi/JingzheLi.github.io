@@ -1,0 +1,15 @@
+[
+  {
+    "name": "图文动态",
+    "icon": "icon/split/feed.svg",
+    "func": "gotoFunc",
+    "param": "/pages/feed/feed"
+  },
+
+  {"name":"MCC导航","icon":"icon/split/navigate.svg","func":"gotoFunc","param":"/pages/gpx/gpx", "extra":"track=MCC"},
+  {"name":"OCC导航","icon":"icon/split/navigate.svg","func":"gotoFunc","param":"/pages/gpx/gpx", "extra":"track=OCC"},
+  {"name":"CCC导航","icon":"icon/split/navigate.svg","func":"gotoFunc","param":"/pages/gpx/gpx", "extra":"track=CCC"},
+  {"name":"TDS导航","icon":"icon/split/navigate.svg","func":"gotoFunc","param":"/pages/gpx/gpx", "extra":"track=TDS"},
+  {"name":"UTMB导航","icon":"icon/split/navigate.svg","func":"gotoFunc","param":"/pages/gpx/gpx", "extra":"track=UTMB"},
+  {"name":"解绑游客", "icon":"icon/split/exit.svg", "func":"showRaceOption","extra":"请点击页面上方赛事logo进行解绑"}
+]

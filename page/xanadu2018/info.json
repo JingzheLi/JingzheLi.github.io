@@ -1,0 +1,16 @@
+[
+{"pagetitle":"赛事信息"},
+{"type":"text", "value":""},
+{"type":"title","value":"领物须知"},
+{"type":"text", "value":"时间：9月7日08:00-22:00"},
+{"type":"text", "value":"地点：内蒙古锡林郭勒盟正蓝旗闪电河商务宾馆"},
+{"type":"map","longitude":115.994613,"latitude":42.236309,"markers":[{"id":"[115.994613,42.236309]","title":"闪电河商务宾馆","width":45,"height":45,"iconPath":"/image/marker.png","longitude":115.994613,"latitude":42.236309}]},
+{"type":"text", "value":"【点击地图中心地标可开启微信地图/导航/街景】"},
+{"type":"text", "value":""},
+{"type":"li", "value":"参赛选手现场签署免责声明，凭本人身份证或其他有效证件原件领取参赛物品"},
+{"type":"li", "value":"不可代领"},
+{"type":"li", "value":"GPS需缴纳100元押金"},
+{"type":"text", "value":""},
+{"type":"title","value":"比赛流程"},
+{"type":"image","value":"http://www.raceonhills.com/image/@raceid@/sc.jpg"}
+]

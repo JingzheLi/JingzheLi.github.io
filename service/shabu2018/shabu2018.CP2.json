@@ -1,0 +1,4 @@
+[
+    {"name":"山卡扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP2&parent=parent&nodeName=山卡"},
+    {"name":"山卡列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP2&parent=CP1&nodeName=山卡"}
+]

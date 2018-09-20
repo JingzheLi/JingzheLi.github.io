@@ -1,0 +1,9 @@
+{
+  "bus":{"displayName":"去程大巴预订", "type":"event", "order":0},
+  "busCheck":{"displayName":"大巴检录","type":"event", "order":1, "parent":"bus"},
+  "bagCheckout":{"displayName":"领包签到","type":"event","order":1},
+  "bagDropIn":{"displayName":"存包","type":"event","order":2,"parent":"bagCheckout"},
+  "bagPickup":{"displayName":"取包","type":"event","order":3,"parent":"bagDropIn"},
+  "prize":{"displayName":"领完赛包","type":"event","order":4,"parent":"bagCheckout"},
+  "_start":{"15k":"Aug 26 2017 23:00:00 GMT+0800"}
+}

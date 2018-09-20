@@ -1,0 +1,4 @@
+[
+    {"name":"石门景区扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP2&parent=parent&nodeName=石门景区"},
+    {"name":"石门景区列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP2&parent=parent&nodeName=石门景区"}
+]

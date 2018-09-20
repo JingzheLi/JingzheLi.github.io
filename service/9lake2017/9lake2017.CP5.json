@@ -1,0 +1,4 @@
+[
+    {"name":"CP5达蓬山酒店扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP5&parent=parent&nodeName=CP5达蓬山酒店"},
+    {"name":"CP5达蓬山酒店列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP5&parent=parent&nodeName=CP5达蓬山酒店"}
+]

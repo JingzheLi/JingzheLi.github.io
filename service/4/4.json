@@ -1,0 +1,7 @@
+[
+ {"name":"轨迹导航","icon":"img/map.png","func":"gotoFunc","param":"/pages/gpx/gpx"},
+ {"name":"赛道图示", "icon":"img/elevation.png", "func":"show","param":"map/@raceid@/@group@.jpg"},
+ {"name":"上传成绩", "icon":"img/submit.png", "func":"showDisabled", "extra":"活动已结束，谢谢。","param":"/pages/fkt/submit"},
+ {"name":"排名", "icon":"img/process.png", "func":"gotoFunc", "param":"/pages/fkt/resultlist"},
+ {"name":"买包包","icon":"img/jurek.png", "func":"gotoPage","param":"jurek.json"}
+]

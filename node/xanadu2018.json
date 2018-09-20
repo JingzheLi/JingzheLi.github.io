@@ -1,0 +1,60 @@
+{
+  "test": { "displayName": "测试", "type": "event", "order": 1, "parent": "" },
+  "bagCheckout": {
+    "displayName": "领物报到",
+    "type": "event",
+    "order": 2,
+    "parent": "parent"
+  },
+  "bagCheck": {
+    "displayName": "领参赛包",
+    "type": "event",
+    "order": 3,
+    "parent": "parent"
+  },
+  "15k": {
+    "displayName": "15公里",
+    "type": "timing",
+    "order": 1,
+    "parent": "bagCheckout"
+  },
+  "30k": {
+    "displayName": "30公里",
+    "type": "timing",
+    "order": 2,
+    "parent": "15k"
+  },
+  "45k": {
+    "displayName": "45公里",
+    "type": "timing",
+    "order": 3,
+    "parent": "30k"
+  },
+  "60k": {
+    "displayName": "60公里",
+    "type": "timing",
+    "order": 4,
+    "parent": "45k"
+  },
+  "75k": {
+    "displayName": "75公里",
+    "type": "timing",
+    "order": 5,
+    "parent": "60k"
+  },
+  "finish": {
+    "displayName": "终点",
+    "type": "timing",
+    "order": 8,
+    "parent": "75k"
+  },
+  "withdraw": {
+    "displayName": "退赛列表",
+    "type": "timing",
+    "order": 999,
+    "parent": "parent"
+  },
+  "_start": {
+    "90k": "Sep 08 2018 08:14:00 GMT+0800"
+  }
+}

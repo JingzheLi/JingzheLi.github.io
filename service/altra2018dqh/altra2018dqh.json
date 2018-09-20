@@ -1,0 +1,9 @@
+[
+  {"name":"号码布","icon":"icon/split/bib.svg","func":"gotoPage","param":"bib"},
+  {"name":"赛事流程","icon":"icon/split/info.svg", "func":"gotoPage","param":"info.json"},
+  {"name":"赛道图示","icon":"icon/split/map.svg","func":"show","param":"image/@raceid@/@group@.jpg"},
+  {"name":"赛事相册","icon":"icon/split/album.svg","func":"gotoFunc","param":"/pages/service/album", "extra":"album=album/@raceid@&title=赛事相册&width=1500"},
+  {"name":"联系救助","icon":"icon/split/phone.svg","func":"makeCall","param":[{"desc":"组委会","phone":"13505743633"}]},
+  {"name":"我的状态", "icon":"icon/split/mynode.svg", "func":"gotoFunc","param":"/pages/runner/mynode"},
+  {"name":"实时成绩","icon":"icon/split/timing.svg","func":"gotoFunc","param":"/pages/organiser/timinglist"}
+]

@@ -1,0 +1,20 @@
+{
+"test":{"displayName":"测试","type":"event","order":0,"parent":""},
+"insurance":{"displayName":"赛事保险","type":"event","order":1,"parent":""},
+"lottery":{"displayName":"战队竞猜","type":"event","order":1,"parent":""},
+"bagCheckout":{"displayName":"领物报到","type":"event","order":2,"parent":"parent"},
+"bagCheck":{"displayName":"领参赛包","type":"event","order":3,"parent":"parent"},
+"bagDropIn":{"displayName":"存包","type":"event","order":4,"parent":"parent"},
+"bagPickUp":{"displayName":"取包","type":"event","order":5,"parent":"bagDropIn"},
+"CP1":{"displayName":"白龙山腰", "type":"timing", "order":1,"parent":"parent"},
+"CP2":{"displayName":"何家村", "type":"timing", "order":2,"parent":"CP1"},
+"CP3":{"displayName":"金家岭", "type":"timing", "order":3,"parent":"CP2"},
+"CP4":{"displayName":"东坞村", "type":"timing", "order":4,"parent":"CP3"},
+"CP5":{"displayName":"龙涎谷", "type":"timing", "order":4,"parent":"CP1"},
+"finish":{"displayName":"终点","type":"timing","order":7,"parent":"CP5"},
+"withdraw":{"displayName":"退赛列表","type":"timing","order":999},
+"_start":{
+"50k": "Dec 3 2017 05:30:00 GMT+0800",
+"25k": "Dec 3 2017 06:30:00 GMT+0800"
+}
+}

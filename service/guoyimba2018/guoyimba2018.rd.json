@@ -1,0 +1,42 @@
+[
+  {
+    "name": "赛事名册",
+    "icon": "icon/split/mynode.svg",
+    "func": "gotoFunc",
+    "param": "/pages/organiser/racerlist",
+    "extra": "readonly=false"
+  },
+  {
+    "name": "领物",
+    "icon": "icon/split/checkin.svg",
+    "func": "gotoFunc",
+    "param": "/pages/organiser/idverify"
+  },
+  {
+    "name": "赛事动态",
+    "icon": "icon/split/feed.svg",
+    "func": "gotoFunc",
+    "param": "/pages/feed/feed?compose=true"
+  },
+  {
+    "name": "状态表",
+    "icon": "icon/split/scan.svg",
+    "func": "gotoFunc",
+    "param": "/pages/organiser/timinglist",
+    "extra": "type=event"
+  },
+  {
+    "name": "计时成绩",
+    "icon": "icon/split/timing.svg",
+    "func": "gotoFunc",
+    "param": "/pages/organiser/timinglist",
+    "extra": "teamnode=final"
+  },
+  {
+    "name": "领物列表",
+    "icon": "icon/split/idea.svg",
+    "func": "gotoFunc",
+    "param": "/pages/organiser/loglist",
+    "extra": "node=bagCheckout&parent=parent&nodeName=领物报到"
+  }
+]

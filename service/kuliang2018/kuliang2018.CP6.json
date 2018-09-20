@@ -1,0 +1,4 @@
+[
+    {"name":"南洋村折返扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP6&parent=parent&nodeName=南洋村折返"},
+    {"name":"南洋村折返列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP6&parent=CP4&nodeName=南洋村折返"}
+]

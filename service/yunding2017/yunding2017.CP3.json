@@ -1,0 +1,4 @@
+[
+    {"name":"垭口扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP3&parent=parent&nodeName=垭口"},
+    {"name":"垭口列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP3&parent=parent&nodeName=垭口"}
+]

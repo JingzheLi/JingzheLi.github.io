@@ -1,0 +1,4 @@
+[
+    {"name":"换装包寄存扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=transit&parent=parent&nodeName=换装包寄存"},
+    {"name":"换装包寄存列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=transit&parent=parent&nodeName=换装包寄存"}
+]

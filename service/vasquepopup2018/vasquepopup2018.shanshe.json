@@ -1,0 +1,19 @@
+[
+    {"name":"号码布领取录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/scan","extra":"node=bib&parent=parent&nodeName=号码布领取"},
+    {"name":"半价美式录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/scan","extra":"node=coffee&parent=parent&nodeName=半价美式"},
+    {"name":"完赛品领取录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/scan","extra":"node=medal&parent=parent&nodeName=完赛品领取"},
+    {
+      "name": "状态表",
+      "icon": "icon/split/scan.svg",
+      "func": "gotoFunc",
+      "param": "/pages/organiser/timinglist",
+      "extra": "type=event"
+    },
+    {
+      "name": "赛事名册",
+      "icon": "icon/split/mynode.svg",
+      "func": "gotoFunc",
+      "param": "/pages/organiser/racerlist",
+      "extra": "readonly=false"
+    }
+]

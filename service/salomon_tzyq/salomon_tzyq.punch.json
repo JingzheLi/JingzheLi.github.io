@@ -1,0 +1,4 @@
+[
+    {"name":"打卡点扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=punch&parent=parent&nodeName=打卡点&repeat=true"},
+    {"name":"打卡点列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=punch&parent=&nodeName=打卡点"}
+]

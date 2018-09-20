@@ -1,0 +1,21 @@
+[
+{"pagetitle":"赛事信息"},
+{"type":"text", "value":""},
+{"type":"title","value":"领物须知"},
+{"type":"text", "value":"时间：2018年1月25-26日"},
+{"type":"text", "value":"地点：伊力特旗舰店 南湖南路西二巷北"},
+{"type":"map","longitude":87.607416,"latitude":43.820352,"markers":[{"id":"[87.607416,43.820352]","title":"伊力特旗舰店","width":45,"height":45,"iconPath":"/image/marker.png","longitude":87.607416,"latitude":43.820352}]},
+{"type":"text", "value":"【点击地图中心地标可开启微信地图/导航/街景】"},
+{"type":"phone","value":"0991-5189072"},
+{"type":"phone","value":"13579955596"},
+{"type":"text", "value":"开车前往：从锦江国际酒店南侧天山农商行入口进停车场，直行到头左转左手边即是伊力特旗舰店"},
+{"type":"text", "value":""},
+{"type":"li", "value":"领物时必须出示本人身份证，并现场签署参赛声明。"},
+{"type":"li", "value":"如需代领需提供参赛选手的参赛号码、参赛选手身份证复印件、参赛选手签署好的参赛声明，代领人的有效证件原件。"},
+{"type":"text", "value":""},
+{"type":"title","value":"比赛流程"},
+{"type":"text", "value":"起点位置：环卫南路59号万科兰乔圣菲D区"},
+{"type":"map","longitude":87.550434,"latitude": 43.791009,"markers":[{"id":"[87.550434, 43.791009]","title":"万科兰乔圣菲D区","width":45,"height":45,"iconPath":"/image/marker.png","longitude":87.550434,"latitude": 43.791009}]},
+{"type":"text", "value":"【点击地图中心地标可开启微信地图/导航/街景】"},
+{"type":"image","value":"http://www.raceonhills.com/image/@raceid@/sc.png"}
+]

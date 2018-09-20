@@ -1,0 +1,12 @@
+[
+{"pagetitle":"@group@ 壁纸"},
+{"type":"subtitle","value":"点击图片全屏后：iOS长按/安卓右上角可保存以下图片，设置成锁屏壁纸。"},
+{"type":"title","value":"攀升图壁纸"},
+{"type":"image","value":"http://www.raceonhills.com/image/@raceid@/wp@group@.png"},
+{"type":"text", "value":" "},
+{"type":"text", "value":" "},
+{"type":"title","value":"分站表壁纸"},
+{"type":"image","value":"http://www.raceonhills.com/image/@raceid@/wpt@group@.jpg"},
+{"type":"text", "value":" "},
+{"type":"text", "value":" "}
+]

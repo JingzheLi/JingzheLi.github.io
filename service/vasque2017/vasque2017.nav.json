@@ -1,0 +1,3 @@
+ [
+    {"name":"Candidate1","icon":"icon/xtrail/navi.svg", "func":"gotoFunc","param":"/pages/gpx/gpx","extra":"track=28k"}
+]

@@ -1,0 +1,10 @@
+[
+  {"name":"号码布","icon":"img/bib.png","func":"gotoPage","param":"bib.json"},
+  {"name":"赛事证书","icon":"img/result.png","func":"gotoPage","param":"cert.json"},
+  {"name":"赛事流程","icon":"img/process.png", "func":"gotoPage","param":"info.json"},
+  {"name":"轨迹导航","icon":"img/map.png","func":"gotoFunc","param":"/pages/gpx/gpx"},
+  {"name":"赛道图示","icon":"img/elevation.png","func":"show","param":"image/@raceid@/@group@.png"},
+  {"name":"联系救助","icon":"img/phone.png","func":"makeCall","param":[{"desc":"组委会","phone":"13958229738"}]},
+  {"name":"实时成绩","icon":"img/timing.svg","func":"gotoFunc","param":"/pages/organiser/timinglist"},
+  {"name":"我的状态", "icon":"img/node.svg", "func":"gotoFunc","param":"/pages/runner/mynode"}
+]

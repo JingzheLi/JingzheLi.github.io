@@ -1,0 +1,78 @@
+{
+  "session1": {
+    "displayName": "签到#1",
+    "type": "event",
+    "order": 1,
+    "parent": "parent"
+  },
+  "session2": {
+    "displayName": "签到#2",
+    "type": "event",
+    "order": 2,
+    "parent": "parent"
+  },
+  "session3": {
+    "displayName": "签到#3",
+    "type": "event",
+    "order": 3,
+    "parent": "parent"
+  },
+  "session4": {
+    "displayName": "签到#4",
+    "type": "event",
+    "order": 4,
+    "parent": "parent"
+  },
+  "session5": {
+    "displayName": "签到#5",
+    "type": "event",
+    "order": 5,
+    "parent": "parent"
+  },
+  "session6": {
+    "displayName": "签到#6",
+    "type": "event",
+    "order": 6,
+    "parent": "parent"
+  },
+  "session7": {
+    "displayName": "签到#7",
+    "type": "event",
+    "order": 7,
+    "parent": "parent"
+  },
+  "session8": {
+    "displayName": "签到#8",
+    "type": "event",
+    "order": 8,
+    "parent": "parent"
+  },
+  "session9": {
+    "displayName": "签到#9",
+    "type": "event",
+    "order": 9,
+    "parent": "parent"
+  },
+  "session10": {
+    "displayName": "签到#10",
+    "type": "event",
+    "order": 10,
+    "parent": "parent"
+  },
+  "session11": {
+    "displayName": "签到#11",
+    "type": "event",
+    "order": 11,
+    "parent": "parent"
+  },
+  "session12": {
+    "displayName": "签到#12",
+    "type": "event",
+    "order": 12,
+    "parent": "parent"
+  },
+  "_start": {
+    "50k": "Mar 25 2018 06:00:00 GMT+0800",
+    "30k": "Mar 25 2018 06:30:00 GMT+0800"
+  }
+}

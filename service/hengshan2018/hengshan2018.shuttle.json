@@ -1,0 +1,4 @@
+[
+    {"name":"摆渡车检录扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=shuttle&parent=parent&nodeName=摆渡车检录"},
+    {"name":"摆渡车检录列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=shuttle&parent=parent&nodeName=摆渡车检录"}
+]

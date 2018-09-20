@@ -1,0 +1,9 @@
+[
+  {
+    "name": "赛事名册",
+    "icon": "icon/split/mynode.svg",
+    "func": "gotoFunc",
+    "param": "/pages/organiser/racerlist",
+    "extra": "readonly=false"
+  }
+]

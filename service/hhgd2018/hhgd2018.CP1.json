@@ -1,0 +1,4 @@
+[
+    {"name":"8公里补给站扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP1&parent=parent&nodeName=8公里补给站"},
+    {"name":"8公里补给站列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP1&parent=bagCheckout&nodeName=8公里补给站"}
+]

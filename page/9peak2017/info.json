@@ -1,0 +1,19 @@
+[
+{"pagetitle":"参赛须知"},
+{"type":"text", "value":""},
+{"type":"title","value":"赛事报到"},
+{"type":"text", "value":"时间：2017年11月18日  11:30 - 22:30"},
+{"type":"text", "value":"地点：黄岩国际大酒店"},
+{"type":"map","longitude":121.2782820,"latitude":28.6412510,"markers":[{"id":"[121.2782820,28.6412510]","title":"黄岩国际大酒店","width":45,"height":45,"iconPath":"/image/marker.png","longitude":121.2782820,"latitude":28.6412510}]},
+{"type":"text", "value":"【点击地图中地标点可进入微信地图导航】"},
+{"type":"text", "value":""},
+{"type":"text", "value":"参赛选手须出示有效身份证明原件领取参赛物品。"},
+{"type":"text", "value":""},
+{"type":"title","value":"赛事起点"},
+{"type":"text", "value":"起点位置：九峰公园西大门"},
+{"type":"map","longitude":121.2771990,"latitude":28.6400830,"markers":[{"id":"[121.2771990,28.6400830]","title":"九峰公园西大门","width":45,"height":45,"iconPath":"/image/marker.png","longitude":121.2771990,"latitude":28.6400830}]},
+{"type":"text", "value":"【点击地图中心圆点可进入微信地图导航】"},
+{"type":"text", "value":""},
+{"type":"title","value":"赛事日程"},
+{"type":"image","value":"http://www.raceonhills.com/image/@raceid@/sc-@group@.png"}
+]

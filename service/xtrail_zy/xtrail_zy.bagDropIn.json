@@ -1,0 +1,4 @@
+[
+    {"name":"存包扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=bagDropIn&parent=parent&nodeName=存包"},
+    {"name":"存包列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bagDropIn&parent=bagCheckout&nodeName=存包"}
+]

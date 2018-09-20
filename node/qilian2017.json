@@ -1,0 +1,15 @@
+{
+"checkin":{"displayName":"检录","type":"event","order":1},
+"bagDropIn":{"displayName":"存包","type":"event","order":2},
+"bagCheckout":{"displayName":"转组","type":"event","order":3},
+"withdraw":{"displayName":"退赛列表","type":"timing","order":999},
+"SCP1":{"displayName":"SCP1-祁连乡", "type":"timing", "order":1},
+"SCP2":{"displayName":"SCP2-红山泉", "type":"timing", "order":2},
+"SCP3":{"displayName":"SCP3-毛藏乡", "type":"timing", "order":3},
+"SCP4":{"displayName":"SCP4-红山泉折返", "type":"timing", "order":4},
+"SCP5":{"displayName":"SCP5-祁连乡折返", "type":"timing", "order":5},
+"finish":{"displayName":"终点-冰沟河","type":"timing","order":7},
+"_start":{"108k":"Jul 15 2017 08:30:00 GMT+0800",
+	 "52k":"Jul 15 2017 09:30:00 GMT+0800",
+	 "21k": "Jul 16 2017 09:00:00 GMT+0800"}
+}

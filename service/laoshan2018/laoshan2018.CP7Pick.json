@@ -1,0 +1,4 @@
+[
+    {"name":"CP5转运存包扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP7Pick&parent=parent&nodeName=CP5转运存包"},
+    {"name":"CP5转运存包列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP7Pick&parent=parent&nodeName=CP5转运存包"}
+]

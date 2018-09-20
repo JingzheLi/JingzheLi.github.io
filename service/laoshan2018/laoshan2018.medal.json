@@ -1,0 +1,4 @@
+[
+    {"name":"领奖牌扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=medal&parent=parent&nodeName=领奖牌"},
+    {"name":"领奖牌列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=medal&parent=parent&nodeName=领奖牌"}
+]

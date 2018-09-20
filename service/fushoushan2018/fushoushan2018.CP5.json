@@ -1,0 +1,4 @@
+[
+    {"name":"西门扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP5&parent=parent&nodeName=西门"},
+    {"name":"西门列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP5&parent=CP4&nodeName=西门"}
+]

@@ -1,0 +1,86 @@
+{
+  "test": { "displayName": "测试", "type": "event", "order": 1, "parent": "" },
+  "bagCheckout": {
+    "displayName": "领物报到",
+    "type": "event",
+    "order": 2,
+    "parent": "parent"
+  },
+  "bagCheck": {
+    "displayName": "领参赛包",
+    "type": "event",
+    "order": 3,
+    "parent": "parent"
+  },
+  "bagDropIn": {
+    "displayName": "存包",
+    "type": "event",
+    "order": 4,
+    "parent": "parent"
+  },
+  "bagPickUp": {
+    "displayName": "取包",
+    "type": "event",
+    "order": 5,
+    "parent": "bagDropIn"
+  },
+  "checkin": {
+    "displayName": "检录",
+    "type": "event",
+    "order": 6,
+    "parent": "parent"
+  },
+  "CP1": {
+    "displayName": "别克家",
+    "type": "timing",
+    "order": 1,
+    "parent": "bagCheckout"
+  },
+  "CP2": {
+    "displayName": "艾山家",
+    "type": "timing",
+    "order": 3,
+    "parent": "CP1"
+  },
+  "CP3": {
+    "displayName": "木栈道",
+    "type": "timing",
+    "order": 4,
+    "parent": "CP2"
+  },
+  "CP4": {
+    "displayName": "若水亭",
+    "type": "timing",
+    "order": 5,
+    "parent": "parent"
+  },
+  "CP5": {
+    "displayName": "西门",
+    "type": "timing",
+    "order": 6,
+    "parent": "CP4"
+  },
+  "finish": {
+    "displayName": "南门终点",
+    "type": "timing",
+    "order": 7,
+    "parent": "CP4"
+  },
+  "finish10k": {
+    "displayName": "木栈道终点",
+    "type": "timing",
+    "order": 8,
+    "parent": "CP1"
+  },
+  "withdraw": {
+    "displayName": "退赛列表",
+    "type": "timing",
+    "order": 999,
+    "parent": "parent"
+  },
+  "_start": {
+    "50k": "Apr 6 2018 06:41:00 GMT+0800",
+    "27k": "Apr 6 2018 10:41:00 GMT+0800",
+    "10k": "Apr 6 2018 10:41:00 GMT+0800"
+  }
+}

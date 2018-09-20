@@ -1,0 +1,4 @@
+[
+    {"name":"秀垟水库扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP1&parent=parent&nodeName=秀垟水库"},
+    {"name":"秀垟水库列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP1&parent=bagCheckout&nodeName=秀垟水库"}
+]

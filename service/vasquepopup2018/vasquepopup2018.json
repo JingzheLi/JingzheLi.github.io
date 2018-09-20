@@ -1,0 +1,13 @@
+[
+  {"name":"号码布","icon":"icon/split/bib.svg","func":"gotoPage","param":"bib"},
+  {"name":"赛事动态","icon":"icon/split/feed.svg","func": "gotoFunc","param": "/pages/feed/feed","extra":"compose=true"},
+  {"name":"赛事流程","icon":"icon/split/info.svg", "func":"gotoPage","param":"info.json"},
+  {"name":"轨迹导航","icon":"icon/split/navigate.svg","func":"gotoFunc","param":"/pages/gpx/gpx"},
+  {"name":"提交成绩","icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/fkt/submit","extra":"form=result&title=提交成绩"},
+  {"name":"赛道图示","icon":"icon/split/map.svg","func":"show","param":"image/@raceid@/vasquepopup.jpg"},
+  {"name":"查看排名","icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/fkt/resultlist","extra":""},
+  {"name":"我的成绩", "icon":"icon/split/mynode.svg", "func":"gotoFunc","param":"/pages/fkt/myresult"},
+  {"name":"我的状态", "icon":"icon/split/mynode.svg", "func":"gotoFunc","param":"/pages/runner/mynode"},
+  {"name":"证书","icon":"icon/split/cert.svg","func":"showDisabled","param":"cert","extra":"将在赛后开启。"},
+  {"name":"房间预定","icon":"image/@raceid@/sunsite.svg", "func":"miniapp","param":"wx8a9aa4a34c29e483", "extra":"/pages/index/index?hotelId=16644&mc=raceon"}
+]

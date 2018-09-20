@@ -1,0 +1,12 @@
+{
+"test":{"displayName":"测试","type":"event","order":1,"parent":""},
+"bagCheckout":{"displayName":"领物报到","type":"event","order":2,"parent":"parent"},
+"bagDropIn":{"displayName":"存包","type":"event","order":4,"parent":"parent"},
+"bagPickUp":{"displayName":"取包","type":"event","order":5,"parent":"bagDropIn"},
+"withdraw":{"displayName":"退赛列表","type":"timing","order":999},
+"_start":{
+"云豹组": "Oct 7 2017 06:00:00 GMT+0800",
+"灵猫组": "Oct 7 2017 06:00:00 GMT+0800",
+"岩羊组": "Oct 7 2017 06:00:00 GMT+0800"
+}
+}

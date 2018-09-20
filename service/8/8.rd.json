@@ -1,0 +1,4 @@
+[
+  {"name":"","icon":"icon/8/info.svg", "func":"gotoPage","param":"test","extra":"english=true"},
+   {"name":"赛事名册","icon":"img/phone.png","func":"gotoFunc","param":"/pages/organiser/racerlist","extra":"readonly=false"}
+]

@@ -1,0 +1,4 @@
+[
+    {"name":"签到#12扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=session12&parent=parent&nodeName=签到#12"},
+    {"name":"签到#12列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=session12&parent=parent&nodeName=签到#12"}
+]

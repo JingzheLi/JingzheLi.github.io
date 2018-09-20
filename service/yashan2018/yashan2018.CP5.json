@@ -1,0 +1,4 @@
+[
+    {"name":"苗圃基地扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP5&parent=parent&nodeName=苗圃基地"},
+    {"name":"苗圃基地列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP5&parent=CP4&nodeName=苗圃基地"}
+]

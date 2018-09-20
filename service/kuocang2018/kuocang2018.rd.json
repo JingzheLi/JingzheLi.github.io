@@ -1,0 +1,37 @@
+[
+  {
+    "name": "赛事名册",
+    "icon": "icon/split/mynode.svg",
+    "func": "gotoFunc",
+    "param": "/pages/organiser/racerlist",
+    "extra": "readonly=false"
+  },
+  {"name":"导出表格","icon":"icon/split/mynode.svg","func":"exportXLS","param":""},
+  {
+    "name": "领物",
+    "icon": "icon/split/checkin.svg",
+    "func": "gotoFunc",
+    "param": "/pages/organiser/idverify"
+  },
+  {
+    "name": "状态表",
+    "icon": "icon/split/scan.svg",
+    "func": "gotoFunc",
+    "param": "/pages/organiser/timinglist",
+    "extra": "type=event"
+  },
+  {
+    "name": "在现场",
+    "icon": "icon/split/feed.svg",
+    "func": "gotoFunc",
+    "param": "/pages/feed/feed?compose=true&avatar=@cdn@/cover/tsaigu.svg"
+  },
+  {
+    "name": "领物列表",
+    "icon": "icon/split/idea.svg",
+    "func": "gotoFunc",
+    "param": "/pages/organiser/loglist",
+    "extra": "node=bagCheckout&parent=parent&nodeName=领物报到"
+  },
+  {"name":"补发参赛包", "icon":"icon/split/parcel.svg", "func":"gotoFunc","param":"/pages/service/bagList","extra":"lp=顺丰"}
+]

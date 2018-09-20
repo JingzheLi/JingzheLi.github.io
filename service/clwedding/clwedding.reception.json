@@ -1,0 +1,6 @@
+[
+    {"name":"婚礼签到扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=reception&parent=parent&nodeName=婚礼签到"},
+    {"name":"婚礼签到列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=reception&parent=parent&nodeName=婚礼签到"},
+    {"name":"赛事名册","icon":"img/phone.png","func":"gotoFunc","param":"/pages/organiser/racerlist","extra":"readonly=true"}
+
+]

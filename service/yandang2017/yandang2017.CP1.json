@@ -1,0 +1,4 @@
+[
+    {"name":"乌岩尖扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP1&parent=parent&nodeName=乌岩尖"},
+    {"name":"乌岩尖列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP1&parent=parent&nodeName=乌岩尖"}
+]

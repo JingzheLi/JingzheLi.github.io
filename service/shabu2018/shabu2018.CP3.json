@@ -1,0 +1,4 @@
+[
+    {"name":"太湖尖扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP3&parent=parent&nodeName=太湖尖"},
+    {"name":"太湖尖列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP3&parent=CP2&nodeName=太湖尖"}
+]

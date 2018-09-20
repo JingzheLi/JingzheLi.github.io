@@ -1,0 +1,4 @@
+[
+    {"name":"雷达站折返扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=LD22-CP2&parent=parent&nodeName=雷达站折返"},
+    {"name":"雷达站折返列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=LD22-CP2&parent=LD22-CP1&nodeName=雷达站折返"}
+]

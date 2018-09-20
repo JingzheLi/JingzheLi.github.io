@@ -1,0 +1,86 @@
+{
+  "gpx": {
+    "displayName": "轨迹下载",
+    "type": "event",
+    "order": 0,
+    "parent": ""
+  },
+  "test": { "displayName": "测试", "type": "event", "order": 1, "parent": "" },
+  "bagCheckout": {
+    "displayName": "领物报到",
+    "type": "event",
+    "order": 2,
+    "parent": "parent"
+  },
+  "bagCheck": {
+    "displayName": "领参赛包",
+    "type": "event",
+    "order": 3,
+    "parent": "parent"
+  },
+  "bagDropIn": {
+    "displayName": "存包",
+    "type": "event",
+    "order": 4,
+    "parent": "parent"
+  },
+  "bagPickUp": {
+    "displayName": "取包",
+    "type": "event",
+    "order": 5,
+    "parent": "bagDropIn"
+  },
+  "CP5Drop": {
+    "displayName": "CP5转运存包",
+    "type": "event",
+    "order": 6,
+    "parent": "parent"
+  },
+  "CP5Pick": {
+    "displayName": "CP5转运取包",
+    "type": "event",
+    "order": 7,
+    "parent": "CP5Drop"
+  },
+  "CP7Pick": {
+    "displayName": "CP5转运存包",
+    "type": "event",
+    "order": 8,
+    "parent": "parent"
+  },
+  "CP7Drop": {
+    "displayName": "CP5转运取包",
+    "type": "event",
+    "order": 7,
+    "parent": "CP7Drop"
+  },
+  "finishert": {
+    "displayName": "领完赛服",
+    "type": "event",
+    "order": 8,
+    "parent": "parent"
+  },
+  "medal": {
+    "displayName": "领奖牌",
+    "type": "event",
+    "order": 9,
+    "parent": "parent"
+  },
+  "finish": {
+    "displayName": "终点",
+    "type": "timing",
+    "order": 8,
+    "parent": "parent"
+  },
+  "withdraw": {
+    "displayName": "退赛列表",
+    "type": "timing",
+    "order": 999,
+    "parent": "parent"
+  },
+  "_start": {
+    "100k": "Jun 16 2018 06:00:00 GMT+0800",
+    "50k": "Jun 16 2018 06:00:00 GMT+0800",
+    "25k": "Jun 25 2018 06:30:00 GMT+0800"
+  }
+}

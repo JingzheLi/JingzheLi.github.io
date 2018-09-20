@@ -1,0 +1,11 @@
+ [
+    {"name":"号码: @bib@","icon":"icon/trcfkt/bib.png","func":"show","param":"racebib/@raceid@/@bib@.png"},
+    {"name":"杭州: 20km","icon":"icon/trcfkt/nav.png", "func":"gotoFunc","param":"/pages/gpx/gpx","extra":"track=hangzhou"},
+    {"name":"无锡: 17km","icon":"icon/trcfkt/nav.png", "func":"gotoFunc","param":"/pages/gpx/gpx","extra":"track=wuxi"},
+    {"name":"宁波: 24km","icon":"icon/trcfkt/nav.svg", "func":"gotoFunc","param":"/pages/gpx/gpx","extra":"track=ningbo"},
+    {"name":"苏州: 23km","icon":"icon/trcfkt/nav.svg", "func":"gotoFunc","param":"/pages/gpx/gpx","extra":"track=suzhou"},
+    {"name":"提交成绩","icon":"icon/trcfkt/submit.svg", "func":"gotoFunc","param":"/pages/fkt/submit","extra1":"成绩提交已截止。", "extra":"form=result&title=提交FKT成绩"},
+    {"name":"查看排名","icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/fkt/resultlist","extra":""},
+    {"name":"我的成绩","icon":"icon/split/mynode.svg", "func":"gotoFunc","param":"/pages/fkt/myresult","extra":""},
+    {"name":"证书","icon":"icon/split/cert.svg","func":"gotoPage","param":"cert.json","extra":"将在赛后开启。"}
+]

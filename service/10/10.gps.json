@@ -1,0 +1,7 @@
+[
+      {"name":"GPS领取录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=gpsCheckout&parent=parent&nodeName=GPS领取"},
+    {"name":"GPS领取列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=gpsCheckout&parent=parent&nodeName=GPS领取列表"},
+      {"name":"GPS归还录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=gpsReturn&parent=gpsCheckout&nodeName=GPS退还"},
+    {"name":"GPS归还列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=gpsReturn&parent=gpsCheckout&nodeName=GPS退还列表"}
+
+]

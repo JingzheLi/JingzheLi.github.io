@@ -1,0 +1,12 @@
+[
+{"pagetitle":"@name@ @bib@"},
+{"type":"title","value":"DAY1"},
+{"type":"image","value":"http://www.raceonhills.com/racebib/@raceid@/@bib@-D1.png"},
+{"type":"title","value":"DAY2"},
+{"type":"image","value":"http://www.raceonhills.com/racebib/@raceid@/@bib@-D2.png"},
+{"type":"subtitle","value":"点击号码布全屏后：iOS长按/安卓右上角可保存图片后分享至朋友圈。"},
+{"type":"text", "value":" "},
+{"type":"text", "value":" "},
+{"type":"text", "value":" "},
+{"type":"text", "value":" "}
+]

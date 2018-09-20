@@ -1,0 +1,98 @@
+{
+  "test": { "displayName": "测试", "type": "event", "order": 1, "parent": "" },
+  "bagCheckout": {
+    "displayName": "领物报到",
+    "type": "event",
+    "order": 2,
+    "parent": "parent"
+  },
+  "bagCheck": {
+    "displayName": "领参赛包",
+    "type": "event",
+    "order": 3,
+    "parent": "parent"
+  },
+  "bagDropIn": {
+    "displayName": "存包",
+    "type": "event",
+    "order": 4,
+    "parent": "parent"
+  },
+  "bagPickUp": {
+    "displayName": "取包",
+    "type": "event",
+    "order": 5,
+    "parent": "bagDropIn"
+  },
+  "checkin": {
+    "displayName": "检录",
+    "type": "event",
+    "order": 6,
+    "parent": "parent"
+  },
+  "CP1": {
+    "displayName": "牛心山",
+    "type": "timing",
+    "order": 1,
+    "parent": "bagCheckout"
+  },
+  "CP2": {
+    "displayName": "柴尔龙海",
+    "type": "timing",
+    "order": 2,
+    "parent": "CP1"
+  },
+  "CP3": {
+    "displayName": "牛心山折返",
+    "type": "timing",
+    "order": 2,
+    "parent": "CP2"
+  },
+  "CP4": {
+    "displayName": "车龙口",
+    "type": "timing",
+    "order": 3,
+    "parent": "CP2"
+  },
+  "CP6": {
+    "displayName": "毛藏乡",
+    "type": "timing",
+    "order": 5,
+    "parent": "CP4"
+  },
+  "CP7": {
+    "displayName": "红山泉",
+    "type": "timing",
+    "order": 6,
+    "parent": "CP6"
+  },
+  "CP8": {
+    "displayName": "神树桥",
+    "type": "timing",
+    "order": 7,
+    "parent": "CP7"
+  },
+  "CP9": {
+    "displayName": "祁连乡",
+    "type": "timing",
+    "order": 7,
+    "parent": "CP8"
+  },
+  "finish": {
+    "displayName": "终点冰沟河",
+    "type": "timing",
+    "order": 8,
+    "parent": "parent"
+  },
+  "withdraw": {
+    "displayName": "退赛列表",
+    "type": "timing",
+    "order": 999,
+    "parent": "parent"
+  },
+  "_start": {
+    "122k": "Jul 21 2018 08:00:00 GMT+0800",
+    "52k": "Jul 21 2018 08:00:00 GMT+0800",
+    "30k": "Jul 21 2018 08:00:00 GMT+0800"
+  }
+}

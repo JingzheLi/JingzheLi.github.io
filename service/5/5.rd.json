@@ -1,0 +1,13 @@
+[
+    {"name":"领装备列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bagCheckout&parent=parent&nodeName=领取赛包"},
+    {"name":"存包列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bagDropIn&parent=bagCheckout&nodeName=存包"},
+    {"name":"取包列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bagPick&parent=bagDropIn&nodeName=取包"},
+    {"name":"CP1列表", "icon":"img/result.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=cp1timing&parent=parent&nodeName=CP1"},
+    {"name":"CP2列表", "icon":"img/result.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=cp2timing&parent=parent&nodeName=CP2"},
+    {"name":"CP3列表", "icon":"img/result.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=cp3timing&parent=parent&nodeName=CP3"},
+    {"name":"CP4列表", "icon":"img/result.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=cp4timing&parent=parent&nodeName=CP4"},
+    {"name":"全程终点成绩", "icon":"img/result.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=finishtiming&parent=parent&nodeName=终点"},
+    {"name":"25终点成绩", "icon":"img/result.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=25timing&parent=parent&nodeName=25终点"},
+   {"name":"发赛包", "icon":"img/submit.png", "func":"gotoFunc","param":"/pages/service/bagList","extra":"raceid=5"},
+    	{"name":"赛事花名册","icon":"img/phone.png","func":"gotoFunc","param":"/pages/organiser/racerlist","extra":"readonly=false"}
+]

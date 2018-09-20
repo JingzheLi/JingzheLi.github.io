@@ -1,0 +1,5 @@
+[
+    {"name":"神树桥扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/scan","extra":"node=CP8&parent=parent&nodeName=神树桥"},
+    {"name":"神树桥列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP8&parent=CP5&nodeName=神树桥"},
+    {"name":"老版扫码", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP8&parent=parent&nodeName=神树桥"}
+]

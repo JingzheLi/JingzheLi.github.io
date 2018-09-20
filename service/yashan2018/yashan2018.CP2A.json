@@ -1,0 +1,4 @@
+[
+    {"name":"高山路扫码录入", "icon":"img/scancode.png", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=CP2A&parent=parent&nodeName=高山路"},
+    {"name":"高山路列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=CP2A&parent=CP1&nodeName=高山路"}
+]

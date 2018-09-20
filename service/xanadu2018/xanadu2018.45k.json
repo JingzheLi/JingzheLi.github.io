@@ -1,0 +1,5 @@
+[
+    {"name":"45公里扫码录入", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/scan","extra":"node=45k&parent=parent&nodeName=45公里"},
+    {"name":"45公里列表", "icon":"icon/split/idea.svg", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=45k&parent=30k&nodeName=45公里"},
+    {"name":"老版扫码", "icon":"icon/split/scan.svg", "func":"gotoFunc","param":"/pages/organiser/logger","extra":"node=45k&parent=parent&nodeName=45公里"}
+]

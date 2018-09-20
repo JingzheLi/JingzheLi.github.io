@@ -1,0 +1,23 @@
+{
+  "test":{"displayName":"测试","type":"event","order":1,"parent":"parent"},
+  "bagCheckout":{"displayName":"领物报到","type":"event","order":2,"parent":"parent"},
+  "gear":{"displayName":"强制装备检查","type":"event","order":3,"parent":"bagCheckout"},
+  "gps":{"displayName":"定位设备领取","type":"event","order":4,"parent":"gear"},
+  "gpsReturn":{"displayName":"定位设备归还","type":"event","order":4,"parent":"gps"},
+  "bagCheck":{"displayName":"领赛包","type":"event","order":5,"parent":"gear"},
+  "bagDropIn":{"displayName":"存包","type":"event","order":6,"parent":"parent"},
+  "bagPickUp":{"displayName":"取包","type":"event","order":7,"parent":"bagDropIn"},
+  "100kBagTransit":{"displayName":"换装包装车","type":"event","order":8,"parent":"parent"},
+  "100kBagTransitUnload":{"displayName":"换装包抵达","type":"event","order":9,"parent":"100kBagTransit"},
+  "100kBagTransitPickup":{"displayName":"换装包领取","type":"event","order":10,"parent":"100kBagTransitUnload"},
+  "100kBagFinish":{"displayName":"百公里终点包装车","type":"event","order":11,"parent":"parent"},
+  "100kBagFinishUnload":{"displayName":"百公里终点包抵达","type":"event","order":12,"parent":"100kBagFinish"},
+  "100kBagFinishPickup":{"displayName":"百公里终点包领取","type":"event","order":13,"parent":"100kBagFinishUnload"},
+  "withdraw":{"displayName":"退赛列表","type":"timing","order":999,"parent":"parent"},
+  "_start":{
+    "100k": "Nov 4 2017 03:00:00 GMT+0800",
+    "60k": "Nov 4 2017 03:00:00 GMT+0800",
+    "50k": "Nov 4 2017 06:00:00 GMT+0800",
+    "42k": "Nov 4 2017 05:00:00 GMT+0800"
+  }
+}

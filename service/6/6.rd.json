@@ -1,0 +1,7 @@
+[
+   {"name":"赛事花名册","icon":"img/phone.png","func":"gotoFunc","param":"/pages/organiser/racerlist","extra":"readonly=false"},
+   {"name":"领包列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bagCheckout&parent=parent&nodeName=领取赛包"},
+   {"name":"存包列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bagDropIn&parent=bagCheckout&nodeName=存包"},
+    {"name":"取包列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=bagPick&parent=bagDropIn&nodeName=取包"},
+{"name":"完赛服领取列表", "icon":"img/process.png", "func":"gotoFunc","param":"/pages/organiser/loglist","extra":"node=tshirt&parent=bagCheckout&nodeName=完赛服领取列表"}
+]

@@ -1,0 +1,7 @@
+ [
+    {"name":"虚谷-杭外 6公里","icon":"image/hugo/track.svg", "func":"gotoGPX","param":"hugo-hfls"},
+    {"name":"关于虚谷","icon":"image/hugo/hotel.svg", "func":"gotoPage","param":"info.json"},
+    {"name":"测测身份证", "icon":"img/node.svg", "func":"gotoFunc", "param":"/pages/organiser/idverify"},
+    {"name":"打卡说明","icon":"img/process.png", "func":"gotoPage","param":"timing.json"},
+    {"name":"赛事照片","icon":"img/photo.png","func":"gotoFunc","param":"/pages/service/album", "extra":"album=/&width=1000&title=赛事相册"}
+]

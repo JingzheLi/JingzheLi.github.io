@@ -1,0 +1,16 @@
+[
+{"pagetitle":"参赛须知"},
+{"type":"text", "value":""},
+{"type":"title","value":"赛事报到"},
+{"type":"text", "value":""},
+{"type":"text", "value":"领物地点：松花湖西武王子大饭店"},
+{"type":"text", "value":"领物时间：2017年7月14日 08:00-20:00"},
+{"type":"map","longitude":126.626623,"latitude":42.685977,"markers":[{"id":"[126.626623,42.685977]","title":"西武王子大饭店","width":45,"height":45,"iconPath":"/image/marker.png","longitude":126.626623,"latitude":42.685977}]},
+{"type":"text", "value":"【点击地图中心点可进入微信地图导航】"},
+{"type":"text", "value":""},
+{"type":"title","value":"赛事日程"},
+{"type":"image","value":"http://www.raceonhills.com/image/@raceid@/schedule.svg"},
+{"type":"text", "value":""},
+{"type":"title","value":"巴士安排"},
+{"type":"image","value":"http://www.raceonhills.com/image/@raceid@/bus.svg"}
+]
