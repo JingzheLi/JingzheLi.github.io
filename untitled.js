@@ -14,3 +14,4 @@ function _toConsumableArray(e) {
 hahahaha
 lalala
 12345
+fetch3
