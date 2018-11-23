@@ -1,5 +1,0 @@
-[
-{"type":"singleLine", "disabled":true, "name":"name", "displayName":"姓名", "promptText":"Name","val":""},
-{"type":"singleLine","disabled":true, "name":"bib","displayName":"参赛号","promptText":"Bib", "val":""},
-{"type":"pickChoice", "name":"goddess", "displayName":"我猜女冠是","promptText":"Oh, my Goddess","val":"","listing":["梁亚莉 （梁小艾）","刘艺菡","洪三亚（依依）","吴俊（吴小仙）","高萍（Leann）","董旻裴（FAY）","方美平（七七）","小雨","蓓蓓","彭茜（兮兮）","郑婧（小妞）","朱莎（妮可）"]}
-]
